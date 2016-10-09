@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+    "homepage": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium.git"
+	},
     "contributes": {
         "themes": [
             {
