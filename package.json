@@ -3,7 +3,7 @@
     "displayName": "Gruvbox Dark (Medium Contrast) Theme",
     "description": "Gruvbox Dark (Medium Contrast) theme based on https://github.com/morhetz/gruvbox",
     "version": "0.0.1",
-    "publisher": "JD",
+    "publisher": "jdinhlife",
     "engines": {
         "vscode": "^1.5.0"
     },
