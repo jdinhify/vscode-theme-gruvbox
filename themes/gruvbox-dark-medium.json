@@ -190,7 +190,7 @@
       }
     },
     {
-      "scope":"string",
+      "scope": "string",
       "settings":{
         "foreground":"#b8bb26"
       }
@@ -210,7 +210,37 @@
     {
       "scope":"string.regexp",
       "settings":{
-        "foreground":"#d3869b"
+        "foreground":"#fe8019"
+      }
+    },
+    {
+      "scope": "string.escape",
+      "settings":{
+        "foreground":"#fb4934"
+      }
+    },
+    {
+      "scope": "string.quasi",
+      "settings":{
+        "foreground":"#8ec07c"
+      }
+    },
+    {
+      "scope": "string.entity",
+      "settings": {
+        "foreground": "#b8bb26"
+      }
+    },
+    {
+      "scope": "object",
+      "settings": {
+        "foreground": "#ebdbb2"
+      }
+    },
+    {
+      "scope": "module.node",
+      "settings": {
+        "foreground": "#83a598"
       }
     },
     {
@@ -422,12 +452,6 @@
       "scope": "punctuation.quasi",
       "settings": {
         "foreground": "#fb4934"
-      }
-    },
-    {
-      "scope": "meta.name.method.function",
-      "settings": {
-        "foreground": "#b8bb26"
       }
     }
   ]
