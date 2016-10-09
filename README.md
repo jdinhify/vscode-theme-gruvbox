@@ -1,4 +1,13 @@
 # README
+## Screenshots
+
+### JS
+![js](images/js.png)
+
+### HTML
+
+![html](images/html.png)
+
 ## About
 A theme made originally from Defaut VS Dark+ color theme, with Gruvbox Dark (Medium Contrast) flavour.
 
@@ -10,12 +19,5 @@ To contribute, please try opening sample codes from the language you're trying t
 ## Tips
  - `tmTheme` is not being used since I think the default VS Dark+ works better for syntax highlighting & (seems to) require fewer configurations
  - In the `json` file, `scope` can be an `array` or a `string` of CSS classes
- - VSCode's dev tools (`Help > Toggle Developer Tools`) is very helpful to find out the scopes.
-
-## Screenshots
-### HTML
-
-![html](images/html.png)
-
-### JS
-![js](images/js.png)
+ - VSCode's dev tools (`Help > Toggle Developer Tools`) is very helpful to find
+ out the scopes.
