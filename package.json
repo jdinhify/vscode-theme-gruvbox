@@ -1,0 +1,22 @@
+{
+    "name": "theme-gruvbox-dark-medium",
+    "displayName": "Gruvbox Dark (Medium Contrast) Theme",
+    "description": "Gruvbox Dark (Medium Contrast) theme based on https://github.com/morhetz/gruvbox",
+    "version": "0.0.1",
+    "publisher": "JD",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruvbox Dark (Medium Contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvbox-dark-medium.json"
+            }
+        ]
+    }
+}
