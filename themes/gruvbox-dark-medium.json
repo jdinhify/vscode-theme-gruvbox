@@ -56,13 +56,13 @@
     {
       "scope":"entity.other.attribute-name",
       "settings":{
-        "foreground":"#689d6a"
+        "foreground":"#fe8019"
       }
     },
     {
       "scope":"entity.other.attribute-name.css",
       "settings":{
-        "foreground":"#d79921"
+        "foreground":"#fe8019"
       }
     },
     {
@@ -307,6 +307,12 @@
       }
     },
     {
+      "scope": "variable.this",
+      "settings": {
+        "foreground": "#d3869b"
+      }
+    },
+    {
       "scope": [
         "entity.name",
         "entity.static",
@@ -358,7 +364,8 @@
         "meta.parameter.type.variable",
         "variable.parameter",
         "variable",
-        "variable.name"
+        "variable.name",
+        "variable.other"
       ],
       "settings":{
         "foreground":"#83a598"
