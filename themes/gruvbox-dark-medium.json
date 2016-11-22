@@ -4,7 +4,9 @@
     {
       "settings": {
         "foreground": "#ebdbb2",
-        "background": "#282828"
+        "background": "#282828",
+        "lineHighlight": "#32302f",
+        "caret": "#fbf1c7"
       }
     },
     {
