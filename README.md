@@ -1,6 +1,8 @@
 # README
 ## Screenshots
 
+![workbench & terminal colors](images/colors.png)
+
 ### JS
 ![js](images/js.png)
 
@@ -11,7 +13,7 @@
 ## About
 A theme made originally from Defaut VS Dark+ color theme, with Gruvbox Dark (Medium Contrast) flavour.
 
-This might be only for web dev (HTML/CSS/JS) atm, the JS syntax color has been adjusted to match gruvbox for Sublime as much as possible.
+This might be only for web dev (HTML/CSS/JS) atm.
 
 Other languages haven't been tested against, but PRs are welcomed.
 To contribute, please try opening sample codes from the language you're trying to use in both `vim` (or `sublime-text`) (with `Dark Medium Contrast Gruvbox`) and `vscode`, then try matching them as much as possible.
