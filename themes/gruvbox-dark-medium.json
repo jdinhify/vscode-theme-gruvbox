@@ -1,14 +1,61 @@
 {
   "name":"Gruvbox Dark Medium",
-  "settings":[
-    {
-      "settings": {
-        "foreground": "#ebdbb2",
-        "background": "#282828",
-        "lineHighlight": "#32302f",
-        "caret": "#fbf1c7"
-      }
-    },
+  "type": "dark",
+  "colors" : {
+    "activityBar.background": "#282828",
+    "activityBar.foreground": "#ebdbb2",
+    "activityBarBadge.background": "#458588",
+    "activityBarBadge.foreground": "#ebdbb2",
+    "sideBar.background": "#282828",
+
+    "focusBorder": "#bdae93",
+    "foreground": "#fbf1c7",
+    "editor.foreground": "#fbf1c7",
+
+    "list.activeSelectionBackground": "#665c54",
+    "list.inactiveSelectionBackground": "#504945",
+
+    "statusBar.background": "#282828",
+    "statusBar.noFolderBackground": "#282828",
+    "statusBar.foreground": "#ebdbb2",
+    "editorGroupHeader.tabsBackground": "#282828",
+    "tab.activeForeground": "#ebdbb2",
+
+    "input.background": "#282828",
+    "input.border": "#504945",
+
+    "editor.background": "#282828",
+    "editor.lineHighlightBackground" : "#32302f",
+    "editorWidget.background": "#282828",
+    "editor.selectionHighlightBackground": "#665c54",
+    "editor.selectionBackground": "#504945",
+    "editor.wordHighlightStrongBackground": "#928374",
+
+    "peekViewEditor.background": "#282828",
+    "peekViewResult.background": "#282828",
+    "peekViewResult.selectionBackground": "#928374",
+    "peekView.border": "#928374",
+
+    "terminal.ansiBlack": "#1d2021",
+    "terminal.ansiBrightBlack": "#928374",
+    "terminal.ansiRed": "#cc241d",
+    "terminal.ansiBrightRed": "#fb4934",
+    "terminal.ansiGreen": "#98971a",
+    "terminal.ansiBrightGreen": "#b8bb26",
+    "terminal.ansiYellow": "#d79921",
+    "terminal.ansiBrightYellow": "#fabd2f",
+    "terminal.ansiBlue": "#458588",
+    "terminal.ansiBrightBlue": "#83a598",
+    "terminal.ansiMagenta": "#b16286",
+    "terminal.ansiBrightMagenta": "#d3869b",
+    "terminal.ansiCyan": "#689d6a",
+    "terminal.ansiBrightCyan": "#8ec07c",
+    "terminal.ansiWhite": "#a89984",
+    "terminal.ansiBrightWhite": "#ebdbb2",
+    "terminal.foreground": "#ebdbb2",
+    "terminal.background": "#282828"
+  },
+  "tokenColors":[
     {
       "scope":"emphasis",
       "settings":{
