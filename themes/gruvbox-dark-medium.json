@@ -25,7 +25,7 @@
     "input.border": "#504945",
 
     "editor.background": "#282828",
-    "editor.lineHighlightBackround" : "#32302f",
+    "editor.lineHighlightBackground" : "#32302f",
     "editorWidget.background": "#282828",
     "editor.selectionHighlightBackground": "#665c54",
     "editor.selectionBackground": "#504945",
