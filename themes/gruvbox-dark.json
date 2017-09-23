@@ -1,5 +1,5 @@
 {
-  "name": "Gruvbox",
+  "name": "Gruvbox Dark Medium",
   "type": "dark",
   "tokenColors": [
     {
@@ -685,6 +685,6 @@
     // OTHERS
     "textLink.foreground": "#83A598",
     "textLink.activeForeground": "#458488",
-    "debugToolBar.background": "#282828",
+    "debugToolBar.background": "#282828"
   }
 }

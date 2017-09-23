@@ -1,7 +1,7 @@
 {
-    "name": "theme-gruvbox-dark-medium",
-    "displayName": "Gruvbox Dark (Medium Contrast) Theme",
-    "description": "Gruvbox Dark (Medium Contrast) theme based on https://github.com/morhetz/gruvbox",
+    "name": "gruvbox",
+    "displayName": "Gruvbox Dark Theme",
+    "description": "Gruvbox Dark theme based on https://github.com/morhetz/gruvbox",
     "version": "0.0.6",
     "publisher": "jdinhlife",
     "engines": {
@@ -14,7 +14,7 @@
         "color": "#3c3836",
         "theme": "dark"
     },
-    "homepage": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium/blob/master/README.md",
+    "homepage": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium/",
     "repository": {
         "type": "git",
         "url": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium.git"
@@ -22,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gruvbox Dark (Medium Contrast)",
+                "label": "Gruvbox Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/gruvbox-dark-medium.json"
+                "path": "./themes/gruvbox-dark.json"
             }
         ]
     }
