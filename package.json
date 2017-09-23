@@ -1,8 +1,8 @@
 {
-    "name": "gruvbox",
+    "name": "gruvbox-dark",
     "displayName": "Gruvbox Dark Theme",
     "description": "Gruvbox Dark theme based on https://github.com/morhetz/gruvbox",
-    "version": "0.0.6",
+    "version": "1.0.1",
     "publisher": "jdinhlife",
     "engines": {
         "vscode": "^1.12.0"
