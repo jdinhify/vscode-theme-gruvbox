@@ -1,14 +1,16 @@
-# README
+# Gruvbox Dark
 ## Screenshots
 
-![workbench & terminal colors](images/colors.png)
+![workbench & terminal colors](images/workbench.png)
 
 ### JS
 ![js](images/js.png)
-
-### HTML
-
-![html](images/html.png)
+### Python
+![python](images/python.png)
+### Java
+![java](images/java.png)
+### C
+![c](images/c.png)
 
 ## About
 A theme made originally from Defaut VS Dark+ color theme, with Gruvbox Dark (Medium Contrast) flavour.
