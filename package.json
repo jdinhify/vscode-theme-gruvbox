@@ -1,7 +1,7 @@
 {
-    "name": "gruvbox-dark",
-    "displayName": "Gruvbox Dark Theme",
-    "description": "Gruvbox Dark theme based on https://github.com/morhetz/gruvbox",
+    "name": "gruvbox-dark-medium",
+    "displayName": "Gruvbox Dark Medium Theme",
+    "description": "Gruvbox Dark Medium theme based on https://github.com/morhetz/gruvbox",
     "version": "1.0.1",
     "publisher": "jdinhlife",
     "engines": {
@@ -22,9 +22,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gruvbox Dark",
+                "label": "Gruvbox Dark Medium",
                 "uiTheme": "vs-dark",
-                "path": "./themes/gruvbox-dark.json"
+                "path": "./themes/gruvbox-dark-medium.json"
             }
         ]
     }
