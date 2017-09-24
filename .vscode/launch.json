@@ -6,6 +6,8 @@
             "name": "Launch Extension",
             "type": "extensionHost",
             "request": "launch",
+            "internalConsoleOptions": "openOnFirstSessionStart",
+            "stopOnEntry": false,
             "runtimeExecutable": "${execPath}",
             "args": ["--extensionDevelopmentPath=${workspaceRoot}" ]
         }
