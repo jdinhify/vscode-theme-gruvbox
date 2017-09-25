@@ -2,7 +2,11 @@
     "name": "gruvbox-dark-medium",
     "displayName": "Gruvbox Dark Medium Theme",
     "description": "Gruvbox Dark Medium theme based on https://github.com/morhetz/gruvbox",
-    "version": "1.0.1",
+    "version": "1.1.0",
+    "author": "jdinhlife (https://github.com/jdinhlife)",
+    "contributors": [
+        "eximus (https://github.com/3ximus)"
+    ],
     "publisher": "jdinhlife",
     "engines": {
         "vscode": "^1.12.0"
