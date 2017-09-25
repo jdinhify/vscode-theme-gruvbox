@@ -1,4 +1,9 @@
 # Gruvbox Dark
+
+## Variants
+
+Currently, this theme only has Gruvbox Dark (Medium Contrast flavor). More might be added in the future. PRs are welcome.
+
 ## Screenshots
 
 ![workbench & terminal colors](images/workbench.png)

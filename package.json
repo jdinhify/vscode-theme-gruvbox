@@ -1,7 +1,7 @@
 {
-    "name": "gruvbox-dark-medium",
-    "displayName": "Gruvbox Dark Medium Theme",
-    "description": "Gruvbox Dark Medium theme based on https://github.com/morhetz/gruvbox",
+    "name": "gruvbox",
+    "displayName": "Gruvbox Theme",
+    "description": "Gruvbox theme based on https://github.com/morhetz/gruvbox",
     "version": "1.1.0",
     "author": "jdinhlife (https://github.com/jdinhlife)",
     "contributors": [
@@ -18,10 +18,10 @@
         "color": "#3c3836",
         "theme": "dark"
     },
-    "homepage": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium/",
+    "homepage": "https://github.com/jdinhlife/vscode-theme-gruvbox",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jdinhlife/vscode-theme-gruvbox-dark-medium.git"
+        "url": "https://github.com/jdinhlife/vscode-theme-gruvbox.git"
     },
     "contributes": {
         "themes": [
