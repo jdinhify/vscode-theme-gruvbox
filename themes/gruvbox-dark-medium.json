@@ -267,7 +267,10 @@
       }
     },
     {
-      "scope": "variable.this",
+      "scope": [
+        "variable.this",
+        "support.variable"
+      ],
       "settings": {
         "foreground": "#d3869b"
       }
@@ -714,6 +717,14 @@
         "foreground": "#d65d0e"
       }
     },
+    {
+      "scope": [
+        "entity.name.tag.css"
+      ],
+      "settings": {
+        "fontStyle": "normal"
+      }
+    },
     // HTML / XML ----------------------------------------
     {
       "scope": [
@@ -731,6 +742,15 @@
       "settings": {
         "foreground": "#8ec07c",
         "fontStyle": "bold"
+      }
+    },
+    // javascript ---------------------------------------
+    {
+      "scope": [
+        "source.js variable.language"
+      ],
+      "settings": {
+        "foreground": "#fe8019"
       }
     }
   ],
