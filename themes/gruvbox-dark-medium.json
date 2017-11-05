@@ -548,6 +548,14 @@
         "foreground": "#fbf1c7"
       }
     },
+    // LISP ----------------------------------------
+    {
+      "name": "Lisp optional function parameters",
+      "scope": "meta.function-parameters.lisp",
+      "settings": {
+        "foreground": "#fabd2f"
+      }
+    },
     // MARKUP ----------------------------------------
     {
       "scope": "markup.underline",
