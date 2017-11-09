@@ -948,6 +948,12 @@
     "titleBar.activeBackground": "#282828",
     "titleBar.activeForeground": "#fbf1c7",
     "titleBar.inactiveBackground": "#282828",
+    // GIT COLORS
+    "gitDecoration.modifiedResourceForeground": "#d79921",
+    "gitDecoration.deletedResourceForeground": "#cc241d",
+    "gitDecoration.untrackedResourceForeground": "#98971a",
+    "gitDecoration.ignoredResourceForeground": "#7c6f64",
+    "gitDecoration.conflictingResourceForeground": "#b16286",
     // NOTIFICATION
     "notification.background": "#282828",
     "notification.foreground": "#fbf1c7",
