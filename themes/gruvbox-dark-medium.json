@@ -792,7 +792,7 @@
     "scrollbar.shadow": "#282828",
     "scrollbarSlider.activeBackground": "#689d6a",
     "scrollbarSlider.hoverBackground": "#665c54",
-    "scrollbarSlider.background": "#1d202199",
+    "scrollbarSlider.background": "#50494599",
     // BADGE
     "badge.background": "#d3869b",
     "badge.foreground": "#282828",
