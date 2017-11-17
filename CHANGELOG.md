@@ -1,3 +1,8 @@
+## 1.1.1
+ - added minor lisp syntax ([@3ximus](https://github.com/3ximus))
+ - added git colors ([@3ximus](https://github.com/3ximus))
+ - made scrollbar slider background brighter for accessibility
+
 ## 1.1.0
  - more workbench colors, improvements & additional languages (c, java, python, shell) ([@3ximus](https://github.com/3ximus))
 
