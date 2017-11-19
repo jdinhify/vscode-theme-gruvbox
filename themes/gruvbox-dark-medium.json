@@ -760,6 +760,57 @@
       "settings": {
         "foreground": "#fe8019"
       }
+    },
+    // golang --------------------------------------------
+    {
+      "scope": [
+        "source.go storage.type"
+      ],
+      "settings": {
+        "foreground": "#fabd2f"
+      }
+    },
+    {
+      "scope": [
+        "source.go entity.name.import"
+      ],
+      "settings": {
+        "foreground": "#b8bb26"
+      }
+    },
+    {
+      "scope": [
+        "source.go keyword.package",
+        "source.go keyword.import"
+      ],
+      "settings": {
+        "foreground": "#8ec07c"
+      }
+    },
+    {
+      "scope": [
+        "source.go keyword.interface",
+        "source.go keyword.struct"
+      ],
+      "settings": {
+        "foreground": "#83a598"
+      }
+    },
+    {
+      "scope": [
+        "source.go entity.name.type"
+      ],
+      "settings": {
+        "foreground": "#ebdbb2"
+      }
+    },
+    {
+      "scope": [
+        "source.go entity.name.function"
+      ],
+      "settings": {
+        "foreground": "#d3869b"
+      }
     }
   ],
   "colors": {

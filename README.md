@@ -36,6 +36,10 @@ Currently, this theme only has Gruvbox Dark (Medium Contrast flavor). More might
 
 ![bash](images/bash.png)
 
+### Go
+
+![golang](images/golang.png)
+
 ## About
 
 Gruvbox Dark Medium Theme
