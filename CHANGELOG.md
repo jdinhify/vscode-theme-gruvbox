@@ -1,3 +1,7 @@
+## 1.2.0
+
+-   added golang syntax
+
 ## 1.1.2
 
 -   changed foreground color to use #ebdbb2 instead of fbf1c7 according to the original gruvbox
