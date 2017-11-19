@@ -47,9 +47,8 @@ To contribute, please try opening sample codes from the language you're trying t
 
 ## Tips
 
-*   `tmTheme` is not being used since I think the default VS Dark+ works better for syntax highlighting & (seems to) require fewer configurations
-*   In the `json` file, `scope` can be an `array` or a `string` of CSS classes
-*   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
+-   In the `json` file, `scope` can be an `array` or a `string` of CSS classes
+-   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
 
 ## Thank Yous
 
@@ -57,4 +56,4 @@ Special thank to the creator of [gruvbox](https://github.com/morhetz/gruvbox)
 
 ### Contributors
 
-*   [eximus](https://github.com/3ximus)
+-   [eximus](https://github.com/3ximus)

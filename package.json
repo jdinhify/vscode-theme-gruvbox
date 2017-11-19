@@ -1,8 +1,8 @@
 {
     "name": "gruvbox",
     "displayName": "Gruvbox Theme",
-    "description": "Gruvbox theme based on https://github.com/morhetz/gruvbox",
-    "version": "1.1.1",
+    "description": "Gruvbox Theme",
+    "version": "1.1.2",
     "author": "jdinhify (https://github.com/jdinhify)",
     "contributors": [
         "eximus (https://github.com/3ximus)"
