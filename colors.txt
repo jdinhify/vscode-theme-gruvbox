@@ -20,7 +20,7 @@ green1 98971a
 green2 b8bb26
 yellow1 d79921
 yellow2 fabd2f
-blue1 ​458588
+blue1 458588
 blue2 83a598
 purple1 b16286
 purple2 d3869b
@@ -49,7 +49,7 @@ green1 98971a
 green2 79740e
 yellow1 d79921
 yellow2 b57614
-blue1 ​458588
+blue1 458588
 blue2 076678
 purple1 b16286
 purple2 8f3f71
