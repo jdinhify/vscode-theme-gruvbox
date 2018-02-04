@@ -1,10 +1,19 @@
-# Gruvbox Dark
+# Gruvbox Theme
 
 ## Variants
 
-Currently, this theme only has Gruvbox Dark (Medium Contrast flavor). More might be added in the future. PRs are welcome.
+All 6 Variants:
 
-## Screenshots
+-   Dark - Medium Contrast
+-   Dark - Hard Contrast
+-   Dark - Soft Contrast
+-   Light - Medium Contrast
+-   Light - Hard Contrast
+-   Light - Soft Contrast
+
+We're not users of Light versions so we need help to make light versions better. Please contribute if you have any sugegstions.
+
+## Screenshots (Dark Medium Contrast)
 
 ![workbench & terminal colors](images/workbench.png)
 
@@ -42,7 +51,7 @@ Currently, this theme only has Gruvbox Dark (Medium Contrast flavor). More might
 
 ## About
 
-Gruvbox Dark Medium Theme
+Gruvbox Theme
 
 Please refer to screenshots to see examples of languages this theme's been used on.
 

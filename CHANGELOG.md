@@ -1,3 +1,7 @@
+## 1.3.0
+
+-   now including 6 variants: Dark & Light with Medium, Hard & Soft contrast
+
 ## 1.2.0
 
 -   added golang syntax
