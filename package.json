@@ -29,6 +29,11 @@
 				"label": "Gruvbox Dark Medium",
 				"uiTheme": "vs-dark",
 				"path": "./themes/gruvbox-dark-medium.json"
+			},
+			{
+				"label": "Gruvbox Light Medium",
+				"uiTheme": "vs",
+				"path": "./themes/gruvbox-light-medium.json"
 			}
 		]
 	},
