@@ -1,3 +1,7 @@
+## 1.3.1
+
+-   used light foreground for activityBarBadge on light versions
+
 ## 1.3.0
 
 -   now including 6 variants: Dark & Light with Medium, Hard & Soft contrast

@@ -872,7 +872,7 @@
     "activityBar.foreground": "#3c3836",
     "activityBar.border": "#f9f5d700",
     "activityBarBadge.background": "#458588",
-    "activityBarBadge.foreground": "#3c3836",
+    "activityBarBadge.foreground": "#ebdbb2",
     // EDITOR GROUPS
     "editorGroup.background": "#ebdbb2",
     "editorGroup.border": "#ebdbb2",
