@@ -1,35 +1,40 @@
 {
-    "name": "gruvbox",
-    "displayName": "Gruvbox Theme",
-    "description": "Gruvbox Theme",
-    "version": "1.2.0",
-    "author": "jdinhify (https://github.com/jdinhify)",
-    "contributors": [
-        "eximus (https://github.com/3ximus)"
-    ],
-    "publisher": "jdinhlife",
-    "engines": {
-        "vscode": "^1.18.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "galleryBanner": {
-        "color": "#3c3836",
-        "theme": "dark"
-    },
-    "homepage": "https://github.com/jdinhify/vscode-theme-gruvbox",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jdinhify/vscode-theme-gruvbox.git"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gruvbox Dark Medium",
-                "uiTheme": "vs-dark",
-                "path": "./themes/gruvbox-dark-medium.json"
-            }
-        ]
-    }
+	"name": "gruvbox",
+	"displayName": "Gruvbox Theme",
+	"description": "Gruvbox Theme",
+	"version": "1.2.0",
+	"author": "jdinhify (https://github.com/jdinhify)",
+	"contributors": [
+		"eximus (https://github.com/3ximus)"
+	],
+	"publisher": "jdinhlife",
+	"engines": {
+		"vscode": "^1.18.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#3c3836",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/jdinhify/vscode-theme-gruvbox",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jdinhify/vscode-theme-gruvbox.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gruvbox Dark Medium",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark-medium.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8",
+		"publisherDisplayName": "jdinhify",
+		"publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
+	}
 }
