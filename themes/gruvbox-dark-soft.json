@@ -872,7 +872,7 @@
     // SIDE BAR
     "sideBar.background": "#32302f",
     "sideBar.foreground": "#d5c4a1",
-    "sideBar.border": "#32302f00",
+    "sideBar.border": "#3c3836",
     "sideBarTitle.foreground": "#ebdbb2",
     "sideBarSectionHeader.background": "#32302f00",
     "sideBarSectionHeader.foreground": "#ebdbb2",
@@ -880,7 +880,7 @@
     "activityBar.background": "#32302f",
     "activityBar.dropBackground": "#32302f",
     "activityBar.foreground": "#ebdbb2",
-    "activityBar.border": "#32302f00",
+    "activityBar.border": "#3c3836",
     "activityBarBadge.background": "#458588",
     "activityBarBadge.foreground": "#ebdbb2",
     // EDITOR GROUPS

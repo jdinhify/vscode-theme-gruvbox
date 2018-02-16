@@ -871,7 +871,7 @@
     // SIDE BAR
     "sideBar.background": "#fbf1c7",
     "sideBar.foreground": "#504945",
-    "sideBar.border": "#fbf1c700",
+    "sideBar.border": "#ebdbb2",
     "sideBarTitle.foreground": "#3c3836",
     "sideBarSectionHeader.background": "#fbf1c700",
     "sideBarSectionHeader.foreground": "#3c3836",
@@ -879,7 +879,7 @@
     "activityBar.background": "#fbf1c7",
     "activityBar.dropBackground": "#fbf1c7",
     "activityBar.foreground": "#3c3836",
-    "activityBar.border": "#fbf1c700",
+    "activityBar.border": "#ebdbb2",
     "activityBarBadge.background": "#458588",
     "activityBarBadge.foreground": "#ebdbb2",
     // EDITOR GROUPS
@@ -894,7 +894,7 @@
     "tab.activeBorder": "#fbf1c7",
     "tab.activeForeground": "#3c3836",
     "tab.inactiveForeground": "#7c6f64",
-    "tab.inactiveBackground": "#ebdbb260",
+    "tab.inactiveBackground": "#ebdbb2",
     "tab.unfocusedActiveForeground": "#7c6f64",
     "tab.unfocusedActiveBorder": "#fbf1c700",
     "tab.unfocusedInactiveForeground": "#928374",
