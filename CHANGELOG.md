@@ -1,3 +1,8 @@
+## 1.3.2
+
+-   added borders for activity bar & sidebar
+-   inactive tab background color
+
 ## 1.3.1
 
 -   used light foreground for activityBarBadge on light versions
