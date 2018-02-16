@@ -15,15 +15,9 @@ We're not users of Light versions so we need help to make light versions better.
 
 ![screenshots](images/screenshots.jpg)
 
-## About
+## PRs are welcomed!
 
-Gruvbox Theme
-
-Please refer to screenshots to see examples of languages this theme's been used on.
-
-Other languages haven't been tested against, but PRs are welcomed.
-
-## Tips
+### Tips
 
 -   In the `json` file, `scope` can be an `array` or a `string` of CSS classes
 -   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
