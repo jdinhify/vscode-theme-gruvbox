@@ -810,6 +810,15 @@
       "settings": {
         "foreground": "#8f3f71"
       }
+    },
+    // cucumber
+    {
+      "scope": [
+        "keyword.control.cucumber.table"
+      ],
+      "settings": {
+        "foreground": "#076678"
+      }
     }
   ],
   "colors": {
@@ -927,6 +936,9 @@
     "editorGutter.modifiedBackground": "#076678",
     "editorGutter.addedBackground": "#79740e",
     "editorGutter.deletedBackground": "#9d0006",
+    "editorError.foreground": "#cc241d",
+    "editorWarning.foreground": "#d79921",
+    "editorInfo.foreground": "#458588",
     // DIFF EDITOR
     "diffEditor.insertedTextBackground": "#79740e30",
     "diffEditor.insertedTextBorder": "#98971a00",
