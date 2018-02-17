@@ -1,5 +1,7 @@
 # Gruvbox Theme
 
+A [gruvbox](https://github.com/morhetz/gruvbox) theme including syntax highlighting and workbench & terminal colors.
+
 ## Variants
 
 -   Dark - Medium Contrast
