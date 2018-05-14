@@ -1,3 +1,7 @@
+## 1.3.3
+
+-   added activeBackground color for indent guide
+
 ## 1.3.2
 
 -   added borders for activity bar & sidebar
