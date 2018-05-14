@@ -915,6 +915,7 @@
     "editor.lineHighlightBorder": "#3c383600",
     "editorWhitespace.foreground": "#a8998420",
     "editorIndentGuide.background": "#a8998420",
+    "editorIndentGuide.activeBackground": "#a8998450",
     "editorRuler.foreground": "#a8998440",
     "editorCodeLens.foreground": "#a8998490",
     "editorBracketMatch.border": "#28282800",
