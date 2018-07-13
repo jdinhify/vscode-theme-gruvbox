@@ -3,8 +3,9 @@ node_js: "node"
 cache:
   directories:
     - node_modules
+
 jobs:
   include:
     - stage: publish
-      if: branch = travis AND tag IS present
+      if: tag IS present
       script: npx vsce publish
