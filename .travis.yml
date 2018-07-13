@@ -8,4 +8,4 @@ jobs:
   include:
     - stage: publish
       if: tag IS present
-      script: npx vsce publish
+      script: npx vsce publish -p $VSCE_T
