@@ -1,0 +1,11 @@
+language: node_js
+node_js: "node"
+cache:
+  directories:
+    - node_modules
+
+jobs:
+  include:
+    - stage: publish
+      if: tag =~ ^v
+      script: npx vsce publish -p $VSCE_T
