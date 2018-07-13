@@ -977,7 +977,7 @@
     "editorOverviewRuler.incomingContentForeground": "#689d6a",
     "editorOverviewRuler.commonContentForeground": "#928374",
     // PANELS
-    "panel.border": "#28282800",
+    "panel.border": "#3c3836",
     "panelTitle.activeForeground": "#ebdbb2",
     // STATUS BAR
     "statusBar.background": "#282828",
