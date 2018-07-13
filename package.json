@@ -61,5 +61,8 @@
 		"id": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8",
 		"publisherDisplayName": "jdinhify",
 		"publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
+	},
+	"devDependencies": {
+		"vsce": "^1.44.0"
 	}
 }
