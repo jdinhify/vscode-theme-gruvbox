@@ -7,5 +7,5 @@ cache:
 jobs:
   include:
     - stage: publish
-      if: tag IS present
+      if: (tag =~ ^v) AND (branch = travis)
       script: npx vsce publish -p $VSCE_T
