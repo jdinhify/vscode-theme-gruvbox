@@ -865,7 +865,7 @@
     "list.focusBackground": "#ebdbb2",
     "list.focusForeground": "#3c3836",
     "list.inactiveSelectionForeground": "#689d6a",
-    "list.inactiveSelectionBackground": "#fbf1c700",
+    "list.inactiveSelectionBackground": "#ebdbb280",
     "list.dropBackground": "#ebdbb2",
     "list.highlightForeground": "#689d6a",
     // SIDE BAR
