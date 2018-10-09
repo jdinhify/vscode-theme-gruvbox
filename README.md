@@ -31,3 +31,4 @@ Special thank to the creator of [gruvbox](https://github.com/morhetz/gruvbox)
 ### Contributors
 
 -   [eximus](https://github.com/3ximus)
+-   [JoshAddington](https://github.com/JoshAddington)

@@ -1,3 +1,11 @@
+## 1.3.6
+
+-   📚  updated README & CHANGELOG
+
+## 1.3.5
+
+-   ✨  made inactive selection in Explorer tree visible ([JoshAddington](https://github.com/JoshAddington))
+
 ## 1.3.4
 
 -   made panel.border visible
