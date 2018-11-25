@@ -1,3 +1,7 @@
+## 1.3.7
+
+-   ✨  better support for ReasonML
+
 ## 1.3.6
 
 -   📚  updated README & CHANGELOG
