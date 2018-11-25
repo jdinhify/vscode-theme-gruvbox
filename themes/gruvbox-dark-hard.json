@@ -849,6 +849,16 @@
       "settings": {
         "foreground": "#83a598"
       }
+    },
+    {
+      "name": "ReasonML property",
+      "scope": [
+        "source.reason support.property-value",
+        "source.reason entity.name.filename"
+      ],
+      "settings": {
+        "foreground": "#fe8019"
+      }
     }
   ],
   "colors": {
