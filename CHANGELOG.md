@@ -1,6 +1,10 @@
+## 1.3.8
+
+-   ✨  better powershell highlighting ([michaelboulton](https://github.com/michaelboulton))
+
 ## 1.3.7
 
--   ✨  better support for ReasonML
+-   ✨  better support for ReasonML ([michaelboulton](https://github.com/michaelboulton))
 
 ## 1.3.6
 
