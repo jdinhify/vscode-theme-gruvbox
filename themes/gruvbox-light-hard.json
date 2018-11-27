@@ -1,5 +1,5 @@
 {
-  "name": "Gruvbox Light Medium",
+  "name": "Gruvbox Light Hard",
   "tokenColors": [
     {
       "settings": {
@@ -854,6 +854,37 @@
       "scope": [
         "source.reason support.property-value",
         "source.reason entity.name.filename"
+      ],
+      "settings": {
+        "foreground": "#af3a03"
+      }
+    },
+    // POWERSHELL ------------------------------------
+    {
+      "name": "Powershell member",
+      "scope": ["source.powershell variable.other.member.powershell"],
+      "settings": {
+        "foreground": "#af3a03"
+      }
+    },
+    {
+      "name": "Powershell function",
+      "scope": ["source.powershell support.function.powershell"],
+      "settings": {
+        "foreground": "#b57614"
+      }
+    },
+    {
+      "name": "Powershell function attribute",
+      "scope": ["source.powershell support.function.attribute.powershell"],
+      "settings": {
+        "foreground": "#665c54"
+      }
+    },
+    {
+      "name": "Powershell hashtable member",
+      "scope": [
+        "source.powershell meta.hashtable.assignment.powershell variable.other.readwrite.powershell"
       ],
       "settings": {
         "foreground": "#af3a03"
