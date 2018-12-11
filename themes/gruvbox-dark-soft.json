@@ -957,9 +957,9 @@
     "editorGroup.background": "#3c3836",
     "editorGroup.border": "#3c3836",
     "editorGroup.dropBackground": "#3c383660",
-    "editorGroup.noTabsBackground": "#3c3836",
-    "editorGroup.tabsbackground": "#3c3836",
-    "editorGroup.tabsBorder": "#3c383600",
+    "editorGroupHeader.noTabsBackground": "#3c3836",
+    "editorGroupHeader.tabsBackground": "#3c3836",
+    "editorGroupHeader.tabsBorder": "#3c383600",
     // TABS
     "tab.border": "#32302f00",
     "tab.activeBorder": "#32302f",
