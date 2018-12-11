@@ -1,3 +1,7 @@
+## 1.3.9
+
+-   🐛  fixed tab bar background colors ([sedmicha](https://github.com/sedmicha))
+
 ## 1.3.8
 
 -   ✨  better powershell highlighting ([michaelboulton](https://github.com/michaelboulton))
