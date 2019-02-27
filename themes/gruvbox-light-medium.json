@@ -929,12 +929,12 @@
     "progressBar.background": "#689d6a",
     // LISTS AND TREES
     "list.activeSelectionBackground": "#ebdbb280",
-    "list.activeSelectionForeground": "#427b58",
+    "list.activeSelectionForeground": "#af3a03",
     "list.hoverBackground": "#ebdbb280",
     "list.hoverForeground": "#504945",
     "list.focusBackground": "#ebdbb2",
     "list.focusForeground": "#3c3836",
-    "list.inactiveSelectionForeground": "#689d6a",
+    "list.inactiveSelectionForeground": "#d65d0e",
     "list.inactiveSelectionBackground": "#ebdbb280",
     "list.dropBackground": "#ebdbb2",
     "list.highlightForeground": "#689d6a",
@@ -962,7 +962,7 @@
     // TABS
     "tab.border": "#fbf1c700",
     "tab.activeBackground": "#ebdbb2",
-    "tab.activeBorder": "#8ec07c",
+    "tab.activeBorder": "#d65d0e",
     "tab.activeForeground": "#3c3836",
     "tab.inactiveForeground": "#7c6f64",
     "tab.inactiveBackground": "#fbf1c7",
