@@ -66,6 +66,6 @@
 		"publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
 	},
 	"devDependencies": {
-		"vsce": "^1.44.0"
+		"vsce": "^1.57.1"
 	}
 }
