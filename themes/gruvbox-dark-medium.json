@@ -761,6 +761,15 @@
         "foreground": "#fe8019"
       }
     },
+    // typescript ---------------------------------------
+    {
+      "scope": [
+        "source.ts variable.language"
+      ],
+      "settings": {
+        "foreground": "#fe8019"
+      }
+    },
     // golang --------------------------------------------
     {
       "scope": [
