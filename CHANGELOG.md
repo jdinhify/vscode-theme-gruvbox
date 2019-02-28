@@ -1,3 +1,7 @@
+## 1.3.11
+
+-   ✨  `this` highlighting for typescript
+
 ## 1.3.10
 
 -   ✨  improvements for tab bar colors ([Layo](https://github.com/layoaster))
