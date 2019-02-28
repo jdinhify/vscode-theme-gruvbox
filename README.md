@@ -23,6 +23,7 @@ We're not users of Light versions so we need help to make light versions better.
 
 -   In the `json` file, `scope` can be an `array` or a `string` of CSS classes
 -   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
+-   `colors.txt` contains available colors
 
 ## Thank Yous
 
@@ -34,3 +35,4 @@ Special thank to the creator of [gruvbox](https://github.com/morhetz/gruvbox)
 -   [JoshAddington](https://github.com/JoshAddington)
 -   [michaelboulton](https://github.com/michaelboulton)
 -   [sedmicha](https://github.com/sedmicha)
+-   [Layo](https://github.com/layoaster)

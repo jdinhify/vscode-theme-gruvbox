@@ -1,3 +1,7 @@
+## 1.3.10
+
+-   ✨  improvements for tab bar colors ([Layo](https://github.com/layoaster))
+
 ## 1.3.9
 
 -   🐛  fixed tab bar background colors ([sedmicha](https://github.com/sedmicha))
