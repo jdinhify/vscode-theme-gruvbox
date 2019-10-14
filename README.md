@@ -59,7 +59,7 @@ Please, report issues/bugs and suggestions for improvements to the issue [here](
 
 We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
 
-#### Tips
+### Tips
 
 -   In the `json` file, `scope` can be an `array` or a `string` of CSS classes
 -   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
@@ -73,7 +73,7 @@ See [changelog](CHANGELOG.md).
 
 Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
 
-#### Contributors
+### Contributors
 
 -   [eximus](https://github.com/3ximus)
 -   [Josh Addington](https://github.com/JoshAddington)
