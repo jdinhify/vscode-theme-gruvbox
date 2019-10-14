@@ -1,6 +1,44 @@
-# Gruvbox Theme
+<h1 align="center">
+  <br>
+  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+    <img src="images/icon.png">
+  </a>
+  <br>
+  Gruvbox
+  <br>
+</h1>
+
+<h4 align="center">A port of Gruvbox theme to VS Code editor</h4>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+    <img src="https://vsmarketplacebadge.apphb.com/version-short/jdinhlife.gruvbox.svg?style=flat-square" alt="Version">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+    <img src="https://vsmarketplacebadge.apphb.com/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+    <img src="https://vsmarketplacebadge.apphb.com/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
+  </a>
+</p>
+
+## About
 
 A [gruvbox](https://github.com/morhetz/gruvbox) theme including syntax highlighting and workbench & terminal colors.
+
+## Installation
+
+Launch *Quick Open*
+
+  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
+  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+
+Paste the following command and press `Enter`:
+
+```
+ext install jdinhlife.gruvbox
+```
 
 ## Variants
 
@@ -11,13 +49,15 @@ A [gruvbox](https://github.com/morhetz/gruvbox) theme including syntax highlight
 -   Light - Hard Contrast
 -   Light - Soft Contrast
 
-We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions.
-
-## Screenshots
+### Screenshots
 
 ![screenshots](images/screenshots.jpg)
 
-## PRs are welcomed!
+## Contributing
+
+Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/jdinhify/vscode-theme-gruvbox/issues).
+
+We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
 
 ### Tips
 
@@ -25,14 +65,23 @@ We're not users of Light versions so we need help to make light versions better.
 -   VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
 -   `colors.txt` contains available colors
 
-## Thank Yous
+## Release Notes
 
-Special thank to the creator of [gruvbox](https://github.com/morhetz/gruvbox)
+See [changelog](CHANGELOG.md).
+
+## Credits
+
+Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
 
 ### Contributors
 
 -   [eximus](https://github.com/3ximus)
--   [JoshAddington](https://github.com/JoshAddington)
+-   [Josh Addington](https://github.com/JoshAddington)
 -   [michaelboulton](https://github.com/michaelboulton)
+-   [Michell Stuttgart](https://github.com/mstuttgart)
 -   [sedmicha](https://github.com/sedmicha)
 -   [Layo](https://github.com/layoaster)
+
+Thanks for help to make the Gruvbox theme better.
+
+Copyright (C) 2017-2019 by [JD](https://github.com/jdinhify)
