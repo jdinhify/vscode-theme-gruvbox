@@ -1,16 +1,14 @@
-
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-  <img src="images/icon.png">
+    <img src="images/icon.png">
   </a>
   <br>
   Gruvbox
   <br>
 </h1>
 
-<h4 align="center">A port of Gruvbox theme to VS Code editor
-</h4>
+<h4 align="center">A port of Gruvbox theme to VS Code editor</h4>
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
@@ -20,7 +18,7 @@
     <img src="https://vsmarketplacebadge.apphb.com/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-      <img src="https://vsmarketplacebadge.apphb.com/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
+    <img src="https://vsmarketplacebadge.apphb.com/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
   </a>
 </p>
 
