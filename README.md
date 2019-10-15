@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="images/icon.png">
+    <img src="https://raw.githubusercontent.com/jdinhify/vscode-theme-gruvbox/master/images/icon.png">
   </a>
   <br>
   Gruvbox
