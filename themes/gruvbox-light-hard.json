@@ -926,6 +926,7 @@
     "inputValidation.infoBackground": "#45858880",
     "inputValidation.warningBorder": "#b57614",
     "inputValidation.warningBackground": "#d7992180",
+    "inputOption.activeBorder": "#3c383660",
     // SCROLL BAR
     "scrollbar.shadow": "#f9f5d7",
     "scrollbarSlider.activeBackground": "#689d6a",
