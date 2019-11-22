@@ -1,3 +1,7 @@
+## 1.4.0
+
+-   ✨  Make input option states more visible (#23) - [Maxim Tsoy](https://github.com/muodov)
+
 ## 1.3.12
 
 -   ✨  Add icon and improve README layout (#22) - [Michell Stuttgart](https://github.com/mstuttgart)
