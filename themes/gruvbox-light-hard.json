@@ -478,6 +478,40 @@
         "foreground": "#b57614"
       }
     },
+    // C# ----------------------------------------
+    {
+      "name": "C# functions & namespace",
+      "scope": [
+        "meta.function.cs",
+        "entity.name.function.cs",
+        "entity.name.type.namespace.cs"
+      ],
+      "settings": {
+        "foreground": "#79740e"
+      }
+    },
+    {
+      "name": "C# Variables",
+      "scope": [
+        "keyword.other.using.cs",
+        "entity.name.variable.field.cs",
+        "entity.name.variable.local.cs",
+        "variable.other.readwrite.cs"
+      ],
+      "settings": {
+        "foreground": "#427b58"
+      }
+    },
+    {
+      "name": "C# This",
+      "scope": [
+        "keyword.other.this.cs",
+        "keyword.other.base.cs"
+      ],
+      "settings": {
+        "foreground": "#b16286"
+      }
+    },
     // MAKEFILE ----------------------------------------
     {
       "scope": "meta.scope.prerequisites",
@@ -871,21 +905,27 @@
     // POWERSHELL ------------------------------------
     {
       "name": "Powershell member",
-      "scope": ["source.powershell variable.other.member.powershell"],
+      "scope": [
+        "source.powershell variable.other.member.powershell"
+      ],
       "settings": {
         "foreground": "#af3a03"
       }
     },
     {
       "name": "Powershell function",
-      "scope": ["source.powershell support.function.powershell"],
+      "scope": [
+        "source.powershell support.function.powershell"
+      ],
       "settings": {
         "foreground": "#b57614"
       }
     },
     {
       "name": "Powershell function attribute",
-      "scope": ["source.powershell support.function.attribute.powershell"],
+      "scope": [
+        "source.powershell support.function.attribute.powershell"
+      ],
       "settings": {
         "foreground": "#665c54"
       }
