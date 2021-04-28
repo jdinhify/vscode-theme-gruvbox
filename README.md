@@ -82,6 +82,7 @@ Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gr
 -   [sedmicha](https://github.com/sedmicha)
 -   [Layo](https://github.com/layoaster)
 -   [Maxim Tsoy](https://github.com/muodov)
+-   [Huip van den Ende](https://github.com/huipvandenende)
 
 Thanks for help to make the Gruvbox theme better.
 
