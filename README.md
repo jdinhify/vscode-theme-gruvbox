@@ -86,4 +86,4 @@ Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gr
 
 Thanks for help to make the Gruvbox theme better.
 
-Copyright (C) 2017-2019 by [JD](https://github.com/jdinhify)
+Copyright (C) 2017 [JD](https://github.com/jdinhify)
