@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.4.0...v1.5.0) (2021-04-29)
+
+
+### Features
+
+* ✨  add C# specific syntax highlighting ([#33](https://github.com/jdinhify/vscode-theme-gruvbox/issues/33)) ([aea4fde](https://github.com/jdinhify/vscode-theme-gruvbox/commit/aea4fded83ea9ea84b4b2d4b3f54289a9b4acc36))
+
 ## 1.4.0
 
 -   ✨  Make input option states more visible (#23) - [Maxim Tsoy](https://github.com/muodov)
