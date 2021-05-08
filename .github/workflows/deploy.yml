@@ -21,7 +21,10 @@ jobs:
 
       - run: npm ci
 
-      - name: deploy to marketplace
+      - name: deploy to vscode marketplace & open-vsx
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
-        run: npx vsce publish -p $VSCE_TOKEN
+          OVSX_TOKEN: ${{ secrets.OVSX_TOKEN }}
+        run: |
+          npx vsce publish -p $VSCE_TOKEN
+          npx ovsx publish -p $OVSX_TOKEN
