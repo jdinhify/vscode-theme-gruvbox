@@ -1064,9 +1064,7 @@
     "editorInfo.foreground": "#458588",
     // DIFF EDITOR
     "diffEditor.insertedTextBackground": "#b8bb2630",
-    "diffEditor.insertedTextBorder": "#98971a00",
     "diffEditor.removedTextBackground": "#fb493430",
-    "diffEditor.removedTextBorder": "#cc241d00",
     // WIDGET
     "editorWidget.background": "#282828",
     "editorWidget.border": "#3c3836",
