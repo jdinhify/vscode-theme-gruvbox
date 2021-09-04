@@ -83,6 +83,7 @@ Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gr
 -   [Layo](https://github.com/layoaster)
 -   [Maxim Tsoy](https://github.com/muodov)
 -   [Huip van den Ende](https://github.com/huipvandenende)
+-   [Christian Klaussner](https://github.com/klaussner)
 
 Thanks for help to make the Gruvbox theme better.
 
