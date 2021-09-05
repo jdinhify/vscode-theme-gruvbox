@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.5.0...v1.5.1) (2021-09-05)
+
+
+### Bug Fixes
+
+* 🐛 remove text borders in diff editor ([#42](https://github.com/jdinhify/vscode-theme-gruvbox/issues/42)) ([4e4d470](https://github.com/jdinhify/vscode-theme-gruvbox/commit/4e4d470be76ed2453638a4dc39a0268418c6593a))
+
 # [1.5.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.4.0...v1.5.0) (2021-04-29)
 
 
