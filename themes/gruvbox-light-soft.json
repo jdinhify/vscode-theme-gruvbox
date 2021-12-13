@@ -1137,6 +1137,8 @@
     "gitDecoration.untrackedResourceForeground": "#98971a",
     "gitDecoration.ignoredResourceForeground": "#a89984",
     "gitDecoration.conflictingResourceForeground": "#b16286",
+    // MENU BAR
+    "menu.border": "#ebdbb2",
     // NOTIFICATION
     "notification.background": "#f2e5bc",
     "notification.foreground": "#3c3836",
