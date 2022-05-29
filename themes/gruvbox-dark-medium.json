@@ -994,7 +994,7 @@
     "editorBracketHighlight.foreground3": "#98971a",
     "editorBracketHighlight.foreground4": "#d79921",
     "editorBracketHighlight.foreground6": "#d65d0e",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#cc241d"
+    "editorBracketHighlight.unexpectedBracket.foreground": "#cc241d",
     // DIFF EDITOR
     "diffEditor.insertedTextBackground": "#b8bb2630",
     "diffEditor.removedTextBackground": "#fb493430",
@@ -1089,6 +1089,6 @@
     // OTHERS
     "textLink.foreground": "#83a598",
     "textLink.activeForeground": "#458588",
-    "debugToolBar.background": "#282828",
+    "debugToolBar.background": "#282828"
   }
 }
