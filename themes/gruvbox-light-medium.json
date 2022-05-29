@@ -1061,6 +1061,13 @@
     "editorError.foreground": "#cc241d",
     "editorWarning.foreground": "#d79921",
     "editorInfo.foreground": "#458588",
+    // EDITOR - BRACKET PAIR COLORIZATION
+    "editorBracketHighlight.foreground1": "#b16286",
+    "editorBracketHighlight.foreground2": "#458588",
+    "editorBracketHighlight.foreground3": "#98971a",
+    "editorBracketHighlight.foreground4": "#d79921",
+    "editorBracketHighlight.foreground6": "#d65d0e",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#cc241d"
     // DIFF EDITOR
     "diffEditor.insertedTextBackground": "#79740e30",
     "diffEditor.removedTextBackground": "#9d000630",
