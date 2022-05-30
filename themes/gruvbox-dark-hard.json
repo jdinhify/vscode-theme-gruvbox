@@ -991,8 +991,9 @@
     // EDITOR - BRACKET PAIR COLORIZATION
     "editorBracketHighlight.foreground1": "#b16286",
     "editorBracketHighlight.foreground2": "#458588",
-    "editorBracketHighlight.foreground3": "#98971a",
-    "editorBracketHighlight.foreground4": "#d79921",
+    "editorBracketHighlight.foreground3": "#689d6a",
+    "editorBracketHighlight.foreground4": "#98971a",
+    "editorBracketHighlight.foreground5": "#d79921",
     "editorBracketHighlight.foreground6": "#d65d0e",
     "editorBracketHighlight.unexpectedBracket.foreground": "#cc241d",
     // DIFF EDITOR
