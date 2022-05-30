@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.5.1...v1.6.0) (2022-05-30)
+
+
+### Features
+
+* add bracket pair colors ([#54](https://github.com/jdinhify/vscode-theme-gruvbox/issues/54)) ([39744aa](https://github.com/jdinhify/vscode-theme-gruvbox/commit/39744aa09da8660898af655716b86cf9ef3d8166))
+
 ## [1.5.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.5.0...v1.5.1) (2021-09-05)
 
 
