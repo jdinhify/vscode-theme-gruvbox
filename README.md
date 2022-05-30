@@ -84,6 +84,7 @@ Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gr
 -   [Maxim Tsoy](https://github.com/muodov)
 -   [Huip van den Ende](https://github.com/huipvandenende)
 -   [Christian Klaussner](https://github.com/klaussner)
+-   [Anton Shpigunov](https://github.com/shpigunov)
 
 Thanks for help to make the Gruvbox theme better.
 
