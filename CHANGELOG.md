@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.6.0...v1.7.0) (2022-06-06)
+
+
+### Features
+
+* ✨ add menu border colors ([#47](https://github.com/jdinhify/vscode-theme-gruvbox/issues/47)) ([d08c456](https://github.com/jdinhify/vscode-theme-gruvbox/commit/d08c456818e4d773d551750c37a39e83f717e482))
+
 # [1.6.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.5.1...v1.6.0) (2022-05-30)
 
 
