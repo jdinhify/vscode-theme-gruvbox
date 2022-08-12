@@ -1074,6 +1074,11 @@
     "gitDecoration.conflictingResourceForeground": "#b16286",
     // MENU BAR
     "menu.border": "#3c3836",
+    // JUPYTER NOTEBOOKS
+    "notebook.cellEditorBackground": "#32302f",
+    "notebook.focusedCellBorder": "#a89984",
+    "notebook.cellBorderColor": "#504945",
+    "notebook.focusedEditorBorder": "#504945",
     // NOTIFICATION
     "notification.background": "#282828",
     "notification.foreground": "#ebdbb2",
