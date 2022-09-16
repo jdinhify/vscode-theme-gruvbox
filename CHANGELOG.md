@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.7.0...v1.8.0) (2022-09-16)
+
+
+### Features
+
+* ✨ add notebook support ([#65](https://github.com/jdinhify/vscode-theme-gruvbox/issues/65)) ([83d9e73](https://github.com/jdinhify/vscode-theme-gruvbox/commit/83d9e73976c0008b5cde8bc2dca1b53e33d7073d))
+
 # [1.7.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.6.0...v1.7.0) (2022-06-06)
 
 
