@@ -989,12 +989,10 @@
     "editorWarning.foreground": "#d79921",
     "editorInfo.foreground": "#458588",
     // EDITOR - INLAY HINTS
-    "editorInlayHint.background": "#3c3836",
+    "editorInlayHint.background": "#3c383680",
     "editorInlayHint.foreground": "#928374",
-    "editorInlayHint.typeBackground": "#3c3836",
-    "editorInlayHint.typeForeground": "#d7992180",
-    "editorInlayHint.paramBackground": "#3c3836",
-    "editorInlayHint.paramForeground": "#45858880",
+    "editorInlayHint.typeForeground": "#d79921",
+    "editorInlayHint.paramForeground": "#458588",
     // EDITOR - BRACKET PAIR COLORIZATION
     "editorBracketHighlight.foreground1": "#b16286",
     "editorBracketHighlight.foreground2": "#458588",
