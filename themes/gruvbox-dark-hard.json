@@ -865,6 +865,43 @@
       "settings": {
         "foreground": "#fe8019"
       }
+    },
+    // DART
+    {
+      "name": "Dart declaration",
+      "scope": [
+        "keyword.declaration.dart"
+      ],
+      "settings": {
+        "foreground": "#fe8019"
+      }
+    },
+    {
+      "name": "Dart primitive",
+      "scope": [
+        "storage.type.primitive.dart"
+      ],
+      "settings": {
+        "foreground": "#fe8019"
+      }
+    },
+    {
+      "name": "Dart class",
+      "scope": [
+        "support.class.dart"
+      ],
+      "settings": {
+        "foreground": "#fabd2f"
+      }
+    },
+    {
+      "name": "Dart import",
+      "scope": [
+        "keyword.other.import.dart"
+      ],
+      "settings": {
+        "foreground": "#689d6a"
+      }
     }
   ],
   "colors": {
