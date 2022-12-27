@@ -991,7 +991,7 @@
     "editorInlayHint.background": "#ebdbb280",
     "editorInlayHint.foreground": "#928374",
     "editorInlayHint.typeForeground": "#b57614",
-    "editorInlayHint.paramForeground": "#076678",
+    "editorInlayHint.parameterForeground": "#076678",
     // EDITOR - BRACKET PAIR COLORIZATION
     "editorBracketHighlight.foreground1": "#b16286",
     "editorBracketHighlight.foreground2": "#458588",
