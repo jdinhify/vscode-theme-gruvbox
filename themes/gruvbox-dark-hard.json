@@ -922,6 +922,7 @@
     "sideBarTitle.foreground": "#ebdbb2",
     "sideBarSectionHeader.background": "#1d202100",
     "sideBarSectionHeader.foreground": "#ebdbb2",
+    "sideBarSectionHeader.border": "#3c3836",
     // ACTIVITY BAR
     "activityBar.background": "#1d2021",
     "activityBar.dropBackground": "#1d2021",
@@ -937,7 +938,7 @@
     "editorGroupHeader.tabsBackground": "#1d2021",
     "editorGroupHeader.tabsBorder": "#3c3836",
     // TABS
-    "tab.border": "#1d202100",
+    "tab.border": "#3c3836",
     "tab.activeBorder": "#689d6a",
     "tab.activeBackground": "#32302f",
     "tab.activeForeground": "#ebdbb2",
@@ -1040,7 +1041,7 @@
     "statusBar.debuggingForeground": "#1d2021",
     "statusBar.debuggingBorder": "#1d202100",
     "statusBar.noFolderBackground": "#1d2021",
-    "statusBar.noFolderBorder": "#1d202100",
+    "statusBar.noFolderBorder": "#3c3836",
     "statusBar.prominentBackground": "#689d6a",
     "statusBar.prominentHoverBackground": "#689d6a70",
     // INTEGRATED TERMINAL
@@ -1066,6 +1067,10 @@
     "titleBar.activeBackground": "#1d2021",
     "titleBar.activeForeground": "#ebdbb2",
     "titleBar.inactiveBackground": "#1d2021",
+    // TITLE BAR
+    "titleBar.border": "#3c3836",
+    // WINDOW
+    "window.activeBorder": "#3c3836",
     // GIT COLORS
     "gitDecoration.modifiedResourceForeground": "#d79921",
     "gitDecoration.deletedResourceForeground": "#cc241d",
@@ -1082,6 +1087,7 @@
     // NOTIFICATION
     "notification.background": "#1d2021",
     "notification.foreground": "#ebdbb2",
+    "notification.border": "#3c3836",
     "notification.buttonBackground": "#665c54",
     "notification.buttonHoverBackground": "#665c5450",
     "notification.buttonForeground": "#ebdbb2",
