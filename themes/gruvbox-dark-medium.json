@@ -1,6 +1,7 @@
 {
   "name": "Gruvbox Dark Medium",
   "type": "dark",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
