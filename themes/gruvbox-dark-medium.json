@@ -326,6 +326,13 @@
       }
     },
     {
+      "name": "constants",
+			"scope": ["variable.other.constant", "variable.other.enummember"],
+			"settings": {
+        "foreground": "#458588"
+			}
+		},
+    {
       "scope": "prototype",
       "settings": {
         "foreground": "#d3869b"
