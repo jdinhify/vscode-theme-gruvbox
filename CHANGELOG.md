@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.8.0...v1.9.0) (2023-10-24)
+
+
+### Features
+
+* enable semantic highlighting ([#80](https://github.com/jdinhify/vscode-theme-gruvbox/issues/80)) ([dc3310d](https://github.com/jdinhify/vscode-theme-gruvbox/commit/dc3310df19499da7a48a1210b5390d4d0b526321))
+
 # [1.8.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.7.0...v1.8.0) (2022-09-16)
 
 
