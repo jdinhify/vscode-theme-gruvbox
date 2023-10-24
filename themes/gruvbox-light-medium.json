@@ -1,5 +1,6 @@
 {
   "name": "Gruvbox Light Medium",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
