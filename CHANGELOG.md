@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.10.0...v1.11.0) (2023-10-25)
+
+
+### Features
+
+* add async keyword scope in Python ([#75](https://github.com/jdinhify/vscode-theme-gruvbox/issues/75)) ([022054d](https://github.com/jdinhify/vscode-theme-gruvbox/commit/022054d0b132949768b7bb295f4f29f672fe019d))
+
 # [1.10.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.9.2...v1.10.0) (2023-10-25)
 
 
