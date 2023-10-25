@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.9.2...v1.10.0) (2023-10-25)
+
+
+### Features
+
+* add menu separator to match with menu border ([#74](https://github.com/jdinhify/vscode-theme-gruvbox/issues/74)) ([6c56be6](https://github.com/jdinhify/vscode-theme-gruvbox/commit/6c56be645e294218ceb32a40972d6a51c782b2e5))
+
 ## [1.9.2](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.9.1...v1.9.2) (2023-10-25)
 
 
