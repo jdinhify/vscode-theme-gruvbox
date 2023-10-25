@@ -386,6 +386,13 @@
       }
     },
     {
+      "name": "Async keyword",
+      "scope": ["storage.type.function.async.python"],
+      "settings": {
+        "foreground": "#fb4934"
+      }
+    },
+    {
       "name": "Python Function Call",
       "scope": "meta.function-call.generic",
       "settings": {
