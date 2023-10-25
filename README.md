@@ -12,13 +12,16 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadges.dev/version-short/jdinhlife.gruvbox.svg?style=flat-square" alt="Version">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/jdinhlife.gruvbox?style=flat-square&labelColor=7c6f64&color=689d6a" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadges.dev/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/jdinhlife.gruvbox?style=flat-square&labelColor=7c6f64&color=689d6a" alt="Installs">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadges.dev/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
+    <img src="https://img.shields.io/visual-studio-marketplace/d/jdinhlife.gruvbox?style=flat-square&labelColor=7c6f64&color=689d6a" alt="Downloads">
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/jdinhlife.gruvbox?style=flat-square&labelColor=7c6f64&color=689d6a" alt="Ratings">
   </a>
 </p>
 
