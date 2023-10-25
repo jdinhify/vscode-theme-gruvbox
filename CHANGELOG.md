@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.9.1...v1.9.2) (2023-10-25)
+
+
+### Bug Fixes
+
+* **readme:** update badges ([16b5772](https://github.com/jdinhify/vscode-theme-gruvbox/commit/16b57726a47b9d09156f906f77ddeff63d131f13))
+
 ## [1.9.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.9.0...v1.9.1) (2023-10-24)
 
 
