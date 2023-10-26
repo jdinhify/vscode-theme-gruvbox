@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Gruvbox Light Medium",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -1098,5 +1099,14 @@
     "textLink.foreground": "#076678",
     "textLink.activeForeground": "#458588",
     "debugToolBar.background": "#fbf1c7"
+  },
+  "semanticTokenColors": {
+    "builtinConstant": "#8f3f71",
+    "property": "#427b58",
+    "parameter": "#076678",
+    "variable": "#3c3836",
+    "magicFunction": "#af3a03",
+    "function": "#af3a03",
+    "method": "#af3a03"
   }
 }
