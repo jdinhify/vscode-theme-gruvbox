@@ -385,6 +385,13 @@
       }
     },
     {
+      "name": "Async keyword",
+      "scope": ["storage.type.function.async.python"],
+      "settings": {
+        "foreground": "#9d0006"
+      }
+    },
+    {
       "name": "Python Function Call",
       "scope": "meta.function-call.generic",
       "settings": {
@@ -1061,6 +1068,7 @@
     "gitDecoration.conflictingResourceForeground": "#b16286",
     // MENU BAR
     "menu.border": "#ebdbb2",
+    "menu.separatorBackground": "#ebdbb2",
     // JUPYTER NOTEBOOKS
     "notebook.cellEditorBackground": "#fbf1c7",
     "notebook.focusedCellBorder": "#7c6f64",
