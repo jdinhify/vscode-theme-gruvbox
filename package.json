@@ -74,10 +74,10 @@
     "publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "ovsx": "^0.5.0",
-    "semantic-release": "^19.0.3",
+    "ovsx": "^0.8.3",
+    "semantic-release": "^22.0.5",
     "vsce": "^2.9.0"
   },
   "private": true,
