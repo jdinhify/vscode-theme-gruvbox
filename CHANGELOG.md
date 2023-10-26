@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.11.0...v1.12.0) (2023-10-26)
+
+
+### Features
+
+* add semantic token colours ([#83](https://github.com/jdinhify/vscode-theme-gruvbox/issues/83)) ([73222ca](https://github.com/jdinhify/vscode-theme-gruvbox/commit/73222ca6dce5963e126040d8991f4368687b5b4e))
+
 # [1.11.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.10.0...v1.11.0) (2023-10-25)
 
 
