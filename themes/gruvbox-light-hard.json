@@ -112,7 +112,12 @@
       }
     },
     {
-      "scope": "storage.modifier",
+      "scope": [
+        "storage.type",
+        "storage.modifier",
+        "constant.numeric",
+        "constant.language"
+      ],
       "settings": {
         "foreground": "#af3a03"
       }
@@ -274,11 +279,7 @@
     },
     {
       "name": "Function declarations",
-      "scope": [
-        "storage.type.function",
-        "entity.function",
-        "entity.name.function.static"
-      ],
+      "scope": ["entity.function", "entity.name.function.static"],
       "settings": {
         "foreground": "#427b58"
       }
@@ -329,12 +330,6 @@
       "scope": "prototype",
       "settings": {
         "foreground": "#8f3f71"
-      }
-    },
-    {
-      "scope": "storage.type.class",
-      "settings": {
-        "foreground": "#9d0006"
       }
     },
     {
@@ -1083,12 +1078,12 @@
     "debugToolBar.background": "#f9f5d7"
   },
   "semanticTokenColors": {
-    "builtinConstant": "#8f3f71",
-    "property": "#427b58",
-    "parameter": "#076678",
+    "builtinConstant": "#af3a03",
+    "property": "#076678",
+    "parameter": "#8f3f71",
     "variable": "#3c3836",
-    "magicFunction": "#af3a03",
-    "function": "#af3a03",
-    "method": "#af3a03"
+    "magicFunction": "#427b58",
+    "function": "#427b58",
+    "method": "#427b58"
   }
 }
