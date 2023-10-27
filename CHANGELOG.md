@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.13.0...v1.14.0) (2023-10-27)
+
+
+### Features
+
+* more aligned with pre-semantic-highlighting ([#87](https://github.com/jdinhify/vscode-theme-gruvbox/issues/87)) ([992a879](https://github.com/jdinhify/vscode-theme-gruvbox/commit/992a879a3e93d3666c2e2de6b21ea7456f0d80a9))
+
 # [1.13.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.12.0...v1.13.0) (2023-10-27)
 
 
