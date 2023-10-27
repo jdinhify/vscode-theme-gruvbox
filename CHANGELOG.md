@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.14.0...v1.15.0) (2023-10-27)
+
+
+### Features
+
+* update storage.type.string.python to match function & class ([#88](https://github.com/jdinhify/vscode-theme-gruvbox/issues/88)) ([b583b57](https://github.com/jdinhify/vscode-theme-gruvbox/commit/b583b578a3dc13f19a8d784090ca4071b869a194))
+
 # [1.14.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.13.0...v1.14.0) (2023-10-27)
 
 
