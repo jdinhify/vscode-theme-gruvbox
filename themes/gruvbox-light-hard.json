@@ -368,7 +368,8 @@
       "scope": [
         "storage.type.function.python",
         "storage.modifier.declaration",
-        "storage.type.class.python"
+        "storage.type.class.python",
+        "storage.type.string.python"
       ],
       "settings": {
         "foreground": "#9d0006"
