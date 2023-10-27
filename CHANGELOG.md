@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.15.0...v1.16.0) (2023-10-27)
+
+
+### Features
+
+* update peekview colors ([#89](https://github.com/jdinhify/vscode-theme-gruvbox/issues/89)) ([1a4d6aa](https://github.com/jdinhify/vscode-theme-gruvbox/commit/1a4d6aa4afd4792921ac7ced79bd99b4679a7646))
+
 # [1.15.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.14.0...v1.15.0) (2023-10-27)
 
 
