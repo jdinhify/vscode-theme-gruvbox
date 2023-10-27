@@ -112,12 +112,7 @@
       }
     },
     {
-      "scope": [
-        "storage.type",
-        "storage.modifier",
-        "constant.numeric",
-        "constant.language"
-      ],
+      "scope": ["storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#af3a03"
       }
@@ -1078,12 +1073,12 @@
     "debugToolBar.background": "#f2e5bc"
   },
   "semanticTokenColors": {
-    "builtinConstant": "#af3a03",
-    "property": "#076678",
-    "parameter": "#8f3f71",
+    "constant.builtin": "#8f3f71",
+    "property": "#3c3836",
+    "parameter": "#076678",
     "variable": "#3c3836",
-    "magicFunction": "#427b58",
     "function": "#427b58",
+    "function.builtin": "#af3a03",
     "method": "#427b58"
   }
 }
