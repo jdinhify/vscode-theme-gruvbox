@@ -1,3 +1,10 @@
+# [1.17.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.16.0...v1.17.0) (2023-10-30)
+
+
+### Features
+
+* use blue for properties (except python) ([#91](https://github.com/jdinhify/vscode-theme-gruvbox/issues/91)) ([0f281ef](https://github.com/jdinhify/vscode-theme-gruvbox/commit/0f281efda8d3088d4ff0dc37beee895fdaa48325))
+
 # [1.16.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.15.0...v1.16.0) (2023-10-27)
 
 
