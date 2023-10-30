@@ -1078,7 +1078,8 @@
   },
   "semanticTokenColors": {
     "constant.builtin": "#d3869b",
-    "property": "#ebdbb2",
+    "property": "#83a598",
+    "property:python": "#ebdbb2",
     "parameter": "#83a598",
     "variable": "#ebdbb2",
     "function": "#8ec07c",
