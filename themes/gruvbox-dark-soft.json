@@ -1084,6 +1084,7 @@
     "variable": "#ebdbb2",
     "function": "#8ec07c",
     "function.builtin": "#fe8019",
-    "method": "#8ec07c"
+    "method": "#8ec07c",
+    "component": "#fe8019"
   }
 }
