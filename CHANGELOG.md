@@ -1,3 +1,10 @@
+# [1.18.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.17.0...v1.18.0) (2024-01-12)
+
+
+### Features
+
+* add component semantic colors ([#95](https://github.com/jdinhify/vscode-theme-gruvbox/issues/95)) ([63951e0](https://github.com/jdinhify/vscode-theme-gruvbox/commit/63951e087012753134d1b69678aa2f87266a62cb))
+
 # [1.17.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.16.0...v1.17.0) (2023-10-30)
 
 
