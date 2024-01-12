@@ -60,7 +60,7 @@ ext install jdinhlife.gruvbox
 
 Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/jdinhify/vscode-theme-gruvbox/issues).
 
-We're not users of Light versions so we need help to make light versions better. Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
+Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
 
 ### Tips
 
