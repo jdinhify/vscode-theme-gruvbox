@@ -1083,6 +1083,7 @@
     "variable": "#3c3836",
     "function": "#427b58",
     "function.builtin": "#af3a03",
-    "method": "#427b58"
+    "method": "#427b58",
+    "component": "#af3a03"
   }
 }
