@@ -923,7 +923,7 @@
     // EDITOR GROUPS
     "editorGroup.border": "#ebdbb2",
     "editorGroup.dropBackground": "#ebdbb260",
-    "editorGroupHeader.noTabsBackground": "#ebdbb2",
+    "editorGroupHeader.noTabsBackground": "#f2e5bc",
     "editorGroupHeader.tabsBackground": "#f2e5bc",
     "editorGroupHeader.tabsBorder": "#ebdbb2",
     // TABS
