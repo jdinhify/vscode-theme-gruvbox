@@ -880,7 +880,7 @@
     "input.foreground": "#3c3836",
     "input.placeholderForeground": "#3c383660",
     "inputValidation.errorBorder": "#9d0006",
-    "inputValidation.errorBackground": "#cc241d80",
+    "inputValidation.errorBackground": "#cc241d",
     "inputValidation.infoBorder": "#076678",
     "inputValidation.infoBackground": "#45858880",
     "inputValidation.warningBorder": "#b57614",

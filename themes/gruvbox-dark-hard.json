@@ -881,7 +881,7 @@
     "input.foreground": "#ebdbb2",
     "input.placeholderForeground": "#ebdbb260",
     "inputValidation.errorBorder": "#fb4934",
-    "inputValidation.errorBackground": "#cc241d80",
+    "inputValidation.errorBackground": "#cc241d",
     "inputValidation.infoBorder": "#83a598",
     "inputValidation.infoBackground": "#45858880",
     "inputValidation.warningBorder": "#fabd2f",
