@@ -1,3 +1,10 @@
+## [1.18.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.18.0...v1.18.1) (2024-05-07)
+
+
+### Bug Fixes
+
+* no transparent background for input errors ([#99](https://github.com/jdinhify/vscode-theme-gruvbox/issues/99)) ([5f9a1d5](https://github.com/jdinhify/vscode-theme-gruvbox/commit/5f9a1d5ecd4cbbf6b364ccdc0e44c40fb23f7a39))
+
 # [1.18.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.17.0...v1.18.0) (2024-01-12)
 
 
