@@ -866,6 +866,7 @@
     "widget.shadow": "#f2e5bc30",
     "selection.background": "#689d6a80",
     "errorForeground": "#9d0006",
+    "icon.foreground": "#3c3836",
     // BUTTON
     "button.background": "#45858880",
     "button.foreground": "#3c3836",
@@ -923,7 +924,7 @@
     // EDITOR GROUPS
     "editorGroup.border": "#ebdbb2",
     "editorGroup.dropBackground": "#ebdbb260",
-    "editorGroupHeader.noTabsBackground": "#ebdbb2",
+    "editorGroupHeader.noTabsBackground": "#f2e5bc",
     "editorGroupHeader.tabsBackground": "#f2e5bc",
     "editorGroupHeader.tabsBorder": "#ebdbb2",
     // TABS
