@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.18.1...v1.19.0) (2024-05-09)
+
+
+### Features
+
+* set noTabsBackground to the same as editor background, add icon.foreground ([#100](https://github.com/jdinhify/vscode-theme-gruvbox/issues/100)) ([6c78e7a](https://github.com/jdinhify/vscode-theme-gruvbox/commit/6c78e7a87a7933789ead1eb5c7fa9b538379d76d))
+
 ## [1.18.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.18.0...v1.18.1) (2024-05-07)
 
 
