@@ -89,6 +89,7 @@ Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gr
 - [Christian Klaussner](https://github.com/klaussner)
 - [Anton Shpigunov](https://github.com/shpigunov)
 - [Piotr Więckiewicz](https://github.com/piotrwieckiewicz)
+- [Andrew Malchuk](https://github.com/amalchuk)
 
 Thanks for help to make the Gruvbox theme better.
 
