@@ -1,3 +1,10 @@
+## [1.19.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.0...v1.19.1) (2024-07-23)
+
+
+### Bug Fixes
+
+* add activityBarTop foreground and background colors ([#102](https://github.com/jdinhify/vscode-theme-gruvbox/issues/102)) ([57aec8d](https://github.com/jdinhify/vscode-theme-gruvbox/commit/57aec8d75b4547d61fcc4af44ed4d71bee845ba9))
+
 # [1.19.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.18.1...v1.19.0) (2024-05-09)
 
 
