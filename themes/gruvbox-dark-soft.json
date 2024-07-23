@@ -920,6 +920,8 @@
     "activityBar.background": "#32302f",
     "activityBar.foreground": "#ebdbb2",
     "activityBar.border": "#3c3836",
+    "activityBarTop.background": "#32302f",
+    "activityBarTop.foreground": "#ebdbb2",
     "activityBarBadge.background": "#458588",
     "activityBarBadge.foreground": "#ebdbb2",
     // EDITOR GROUPS
