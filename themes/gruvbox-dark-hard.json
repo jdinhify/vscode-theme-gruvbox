@@ -988,6 +988,9 @@
     "editorBracketHighlight.foreground5": "#d79921",
     "editorBracketHighlight.foreground6": "#d65d0e",
     "editorBracketHighlight.unexpectedBracket.foreground": "#cc241d",
+    // EDITOR - STICKY SCROLL
+    "editorStickyScroll.shadow":"#50494599",
+    "editorStickyScrollHover.background":"#3c383660",
     // DIFF EDITOR
     "diffEditor.insertedTextBackground": "#b8bb2630",
     "diffEditor.removedTextBackground": "#fb493430",
