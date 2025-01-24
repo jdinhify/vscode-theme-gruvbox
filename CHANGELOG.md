@@ -1,3 +1,10 @@
+## [1.19.2](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.1...v1.19.2) (2025-01-21)
+
+
+### Bug Fixes
+
+* remove transparent background for input warnings ([#105](https://github.com/jdinhify/vscode-theme-gruvbox/issues/105)) ([b312831](https://github.com/jdinhify/vscode-theme-gruvbox/commit/b31283193793cc38882c354625f5780ba8a245ba))
+
 ## [1.19.1](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.0...v1.19.1) (2024-07-23)
 
 
