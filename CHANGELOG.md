@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.2...v1.20.0) (2025-01-24)
+
+
+### Features
+
+* add sticky scroll supports ([#106](https://github.com/jdinhify/vscode-theme-gruvbox/issues/106)) ([dacad7d](https://github.com/jdinhify/vscode-theme-gruvbox/commit/dacad7d501240babbc5d90aed0c0784991a5866f))
+
 ## [1.19.2](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.1...v1.19.2) (2025-01-21)
 
 
