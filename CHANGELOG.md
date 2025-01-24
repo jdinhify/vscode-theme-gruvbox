@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.20.0...v1.21.0) (2025-01-24)
+
+
+### Features
+
+* remove JSON key colours ([#107](https://github.com/jdinhify/vscode-theme-gruvbox/issues/107)) ([6647adb](https://github.com/jdinhify/vscode-theme-gruvbox/commit/6647adb1e1703534f24646e317c340b68d0c65cb))
+
 # [1.20.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.19.2...v1.20.0) (2025-01-24)
 
 
