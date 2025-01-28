@@ -944,6 +944,11 @@
     "editorError.foreground": "#cc241d",
     "editorWarning.foreground": "#d79921",
     "editorInfo.foreground": "#458588",
+    // EDITOR - INLAY HINTS
+    "editorInlayHint.background": "#3c383680",
+    "editorInlayHint.foreground": "#928374",
+    "editorInlayHint.typeForeground": "#d79921",
+    "editorInlayHint.parameterForeground": "#458588",
     // EDITOR - BRACKET PAIR COLORIZATION
     "editorBracketHighlight.foreground1": "#b16286",
     "editorBracketHighlight.foreground2": "#458588",
