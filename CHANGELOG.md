@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.21.0...v1.22.0) (2025-01-28)
+
+
+### Features
+
+* support gitlens ([#103](https://github.com/jdinhify/vscode-theme-gruvbox/issues/103)) ([ab7698b](https://github.com/jdinhify/vscode-theme-gruvbox/commit/ab7698bf83174faf0245b43d179533f387aa3945))
+
 # [1.21.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.20.0...v1.21.0) (2025-01-24)
 
 
