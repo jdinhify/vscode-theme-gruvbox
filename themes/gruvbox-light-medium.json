@@ -318,9 +318,16 @@
         "string.constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#076678"
+        "foreground": "#458588"
       }
     },
+    {
+      "name": "constants",
+			"scope": ["variable.other.constant", "variable.other.enummember"],
+			"settings": {
+        "foreground": "#076678"
+			}
+		},
     {
       "scope": "prototype",
       "settings": {
