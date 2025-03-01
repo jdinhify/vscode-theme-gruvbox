@@ -84,7 +84,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"sideBar.foreground": fg2,
 		"sideBar.border": bg1,
 		"sideBarTitle.foreground": fg1,
-		"sideBarSectionHeader.background": withAlpha(bg0, 1),
+		"sideBarSectionHeader.background": transparent,
 		"sideBarSectionHeader.foreground": fg1,
 		// ACTIVITY BAR
 		"activityBar.background": bg0,
