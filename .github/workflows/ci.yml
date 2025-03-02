@@ -1,6 +1,7 @@
-name: build & release
+name: ci
 
 on:
+  pull_request:
   push:
     branches: [main]
 
@@ -21,7 +22,10 @@ jobs:
 
       - run: npm ci
 
-      - name: release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: npx semantic-release
+      - name: typecheck
+        run: npm run type:check
+      - name: lint
+        run: npm run lint:check
+      - name: format check
+        run: npm run format:check
+
