@@ -4,22 +4,6 @@
 	"description": "Gruvbox Theme",
 	"version": "1.22.0",
 	"author": "jdinhify (https://github.com/jdinhify)",
-	"contributors": [
-		"eximus (https://github.com/3ximus)",
-		"Josh Addington (https://github.com/JoshAddington)",
-		"michaelboulton (https://github.com/michaelboulton)",
-		"Michell Stuttgart (https://github.com/mstuttgart)",
-		"sedmicha (https://github.com/sedmicha)",
-		"Layo (https://github.com/layoaster)",
-		"Maxim Tsoy (https://github.com/muodov)",
-		"Huip van den Ende (https://github.com/huipvandenende)",
-		"Christian Klaussner (https://github.com/klaussner)",
-		"Anton Shpigunov (https://github.com/shpigunov)",
-		"Piotr Więckiewicz (https://github.com/piotrwieckiewicz)",
-		"Andrew Malchuk (https://github.com/amalchuk)",
-		"lmn451 (https://github.com/lmn451)",
-		"Minseo Kim (https://github.com/kimminss0)"
-	],
 	"publisher": "jdinhlife",
 	"engines": {
 		"vscode": "^1.67.2"
@@ -81,6 +65,7 @@
 		"@semantic-release/changelog": "^6.0.3",
 		"@semantic-release/git": "^10.0.1",
 		"@types/node": "^22.13.7",
+		"@vscode/vsce": "^3.2.2",
 		"eslint": "^9.21.0",
 		"eslint-config-prettier": "^10.0.2",
 		"ovsx": "^0.10.1",
@@ -88,13 +73,16 @@
 		"semantic-release": "^24.2.3",
 		"tsx": "^4.19.3",
 		"typescript": "^5.7.3",
-		"typescript-eslint": "^8.25.0",
-		"vsce": "^2.15.0"
+		"typescript-eslint": "^8.25.0"
 	},
 	"private": true,
 	"scripts": {
 		"semantic-release": "semantic-release",
-		"dev": "tsx watch ./src/main.ts"
+		"dev": "tsx watch ./src/main.ts",
+		"build": "tsx ./src/main.ts",
+		"type:check": "tsc ./src/*.ts --noEmit",
+		"lint:check": "eslint ./src",
+		"format:check": "prettier ./src --check"
 	},
 	"license": "MIT",
 	"type": "module"

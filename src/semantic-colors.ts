@@ -1,9 +1,6 @@
-import { ColorContrast, allColors, ColorScheme } from "./shared";
+import { allColors, ColorScheme } from "./shared";
 
-export const getSemanticColors = (
-	scheme: ColorScheme,
-	contrast: ColorContrast,
-) => {
+export const getSemanticColors = (scheme: ColorScheme) => {
 	const { orange2, blue2, aqua2, purple2, fg1 } = allColors[scheme];
 	return {
 		"constant.builtin": purple2,

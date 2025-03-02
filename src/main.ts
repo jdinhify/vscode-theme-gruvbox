@@ -62,7 +62,7 @@ const generateJson = (scheme: ColorScheme, contrast: ColorContrast) => {
 			...getJupyterNotebookColors(scheme, contrast),
 			...getGitLensColors(scheme, contrast),
 		},
-		semanticTokenColors: getSemanticColors(scheme, contrast),
+		semanticTokenColors: getSemanticColors(scheme),
 	};
 };
 

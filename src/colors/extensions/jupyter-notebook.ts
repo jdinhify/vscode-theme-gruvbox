@@ -1,9 +1,7 @@
-import { ColorScheme, ColorContrast, allColors } from "../../shared";
+import { ColorScheme, allColors } from "../../shared";
+import { Getter } from "../types";
 
-export const getJupyterNotebookColors = (
-	scheme: ColorScheme,
-	contrast: ColorContrast,
-) => {
+export const getJupyterNotebookColors: Getter = (scheme: ColorScheme) => {
 	const colors = allColors[scheme];
 	const { bg1, fg4, bg2 } = colors;
 
