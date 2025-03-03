@@ -21,11 +21,22 @@ jobs:
 
       - run: npm ci
 
-      - name: deploy to vscode marketplace & open-vsx
+      - name: publish to vscode marketplace & open-vsx
         env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
           OVSX_TOKEN: ${{ secrets.OVSX_TOKEN }}
         run: |
+          echo "--- build theme json files"
           npm run build
-          npx vsce publish -p $VSCE_TOKEN
-          npx ovsx publish -p $OVSX_TOKEN
+
+          echo "--- generate changelog.md from github releases"
+          gh api /repos/{owner}/{repo}/releases --jq '.[] | .body' > changelog.md
+
+          echo "--- publish"
+          version=$(gh release view --json tagName --jq '.tagName | .[1:]')
+          echo "version: $version"
+          git config user.email "14046273+jdinhify@users.noreply.github.com"
+          git config user.name "jd"
+          npx vsce publish -p $VSCE_TOKEN $version
+          npx ovsx publish -p $OVSX_TOKEN --packageVersion $version
