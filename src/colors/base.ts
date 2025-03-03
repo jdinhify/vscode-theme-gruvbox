@@ -47,7 +47,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"dropdown.border": bg1,
 		"dropdown.foreground": fg1,
 		// INPUT
-		"input.background": withAlpha(fg1, 5),
+		"input.background": bg0,
 		"input.border": bg1,
 		"input.foreground": fg1,
 		"input.placeholderForeground": withAlpha(fg1, 96),
