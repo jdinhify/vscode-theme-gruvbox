@@ -69,6 +69,6 @@ If you'd like to contribute, please follow the [contributing docs](CONTRIBUTING.
 
 ## Release Notes
 
-See [changelog](CHANGELOG.md).
+See [releases](https://github.com/jdinhify/vscode-theme-gruvbox/releases).
 
 Copyright (C) 2017 [jd](https://github.com/jdinhify)

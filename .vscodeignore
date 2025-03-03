@@ -3,10 +3,11 @@ src
 code-examples
 .github
 .vscode
+node_modules
 
 !package.json
 !LICENSE
 !images
 !README.md
-!CHANGELOG.md
+!changelog.md
 !themes

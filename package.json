@@ -2,7 +2,7 @@
 	"name": "gruvbox",
 	"displayName": "Gruvbox Theme",
 	"description": "Gruvbox Theme",
-	"version": "1.23.0",
+	"version": "0.0.0",
 	"author": "jdinhify (https://github.com/jdinhify)",
 	"publisher": "jdinhlife",
 	"engines": {
@@ -62,8 +62,6 @@
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.21.0",
-		"@semantic-release/changelog": "^6.0.3",
-		"@semantic-release/git": "^10.0.1",
 		"@types/node": "^22.13.7",
 		"@vscode/vsce": "^3.2.2",
 		"eslint": "^9.21.0",
