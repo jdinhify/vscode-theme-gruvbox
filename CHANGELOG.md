@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.22.0...v1.23.0) (2025-03-03)
+
+
+### Features
+
+* update some tokens to match nvim ([#116](https://github.com/jdinhify/vscode-theme-gruvbox/issues/116)) ([eff7f0d](https://github.com/jdinhify/vscode-theme-gruvbox/commit/eff7f0d1a00db98f244b521d77f5390c65c6975b))
+
 # [1.22.0](https://github.com/jdinhify/vscode-theme-gruvbox/compare/v1.21.0...v1.22.0) (2025-01-28)
 
 
