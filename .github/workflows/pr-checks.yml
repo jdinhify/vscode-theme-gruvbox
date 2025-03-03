@@ -1,9 +1,7 @@
-name: ci
+name: pr-checks
 
 on:
   pull_request:
-  push:
-    branches: [main]
 
 jobs:
   build-release:
@@ -30,7 +28,6 @@ jobs:
         run: npm run format:check
       - name: build check
         id: build-check
-        if: ${{ github.ref_name != 'main' }}
         env:
           BRANCH: ${{ github.head_ref }}
         run: |
