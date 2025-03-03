@@ -75,7 +75,7 @@ const run = async () => {
 			),
 		),
 	);
-	console.log("themes generated");
+	console.log("themes generated\n");
 };
 
 run();

@@ -28,4 +28,40 @@ jobs:
         run: npm run lint:check
       - name: format check
         run: npm run format:check
+      - name: build check
+        id: build-check
+        if: ${{ github.ref_name != 'main' }}
+        env:
+          BRANCH: ${{ github.head_ref }}
+        run: |
+          echo "--- build themes"
+          npm run build
 
+          echo "--- check for uncommitted themes then commit & push if found"
+          (
+            set -x
+            if [[ `git status --porcelain` ]]; then
+              echo "changes found, committing & pushing"
+              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config user.name "github-actions[bot]"
+              git fetch --depth=1
+              git checkout $BRANCH
+              git add themes
+              git commit -m "[automatic] build themes"
+              git push
+              echo "changes-pushed=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "no changes found"
+              echo "changes-pushed=false" >> "$GITHUB_OUTPUT"
+            fi
+          )
+      - uses: actions/github-script@v7
+        if: ${{ steps.build-check.outputs.changes-pushed == 'true' }}
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '`themes` folder has been updated'
+            })
