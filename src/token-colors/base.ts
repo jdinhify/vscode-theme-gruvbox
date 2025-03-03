@@ -5,6 +5,7 @@ export const getBaseTokenColors: Getter = (scheme) => {
 	const {
 		fg1,
 		fg2,
+		fg4,
 		red1,
 		red2,
 		orange2,
@@ -71,13 +72,13 @@ export const getBaseTokenColors: Getter = (scheme) => {
 		{
 			scope: "entity.other.attribute-name",
 			settings: {
-				foreground: blue2,
+				foreground: yellow2,
 			},
 		},
 		{
 			scope: ["entity.name.tag", "punctuation.tag"],
 			settings: {
-				foreground: blue2,
+				foreground: aqua2,
 			},
 		},
 		{
@@ -189,12 +190,9 @@ export const getBaseTokenColors: Getter = (scheme) => {
 			},
 		},
 		{
-			scope: [
-				"support.type.property-name",
-				"punctuation.support.type.property-name",
-			],
+			scope: "support.type.property-name",
 			settings: {
-				foreground: blue2,
+				foreground: aqua1,
 			},
 		},
 		{
@@ -222,11 +220,13 @@ export const getBaseTokenColors: Getter = (scheme) => {
 			},
 		},
 		{
-			scope: [
-				"keyword.operator",
-				"keyword.operator.logical",
-				"keyword.operator.new",
-			],
+			scope: "keyword.operator",
+			settings: {
+				foreground: aqua2,
+			},
+		},
+		{
+			scope: "keyword.operator.new",
 			settings: {
 				foreground: orange2,
 			},
@@ -346,15 +346,9 @@ export const getBaseTokenColors: Getter = (scheme) => {
 			},
 		},
 		{
-			scope: ["punctuation", "punctuation.separator"],
+			scope: ["punctuation"],
 			settings: {
-				foreground: orange2,
-			},
-		},
-		{
-			scope: ["punctuation.definition.string"],
-			settings: {
-				foreground: green2,
+				foreground: fg4,
 			},
 		},
 		{
