@@ -1,0 +1,12 @@
+*
+src
+code-examples
+.github
+.vscode
+
+!package.json
+!LICENSE
+!images
+!README.md
+!CHANGELOG.md
+!themes

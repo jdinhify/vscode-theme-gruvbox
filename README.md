@@ -56,42 +56,19 @@ ext install jdinhlife.gruvbox
 
 ![screenshots](images/screenshots.jpg)
 
+## Credits
+
+- Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
+- A bunch of [awesome contributors](https://github.com/jdinhify/vscode-theme-gruvbox/graphs/contributors)
+
 ## Contributing
 
 Please, report issues/bugs and suggestions for improvements to the issue [here](https://github.com/jdinhify/vscode-theme-gruvbox/issues).
 
-Please contribute if you have any suggestions. **PRs are welcomed!** :rocket:
-
-### Tips
-
-- In the `json` file, `scope` can be an `array` or a `string` of CSS classes
-- VSCode's `Developer: Inspect TM Scopes` command is useful to find out the scope
-- `colors.txt` contains available colors
+If you'd like to contribute, please follow the [contributing docs](CONTRIBUTING.md)
 
 ## Release Notes
 
 See [changelog](CHANGELOG.md).
 
-## Credits
-
-Special thank to [Pavel Pertsev](https://github.com/morhetz), the creator of [gruvbox](https://github.com/morhetz/gruvbox) original theme.
-
-### Contributors
-
-- [eximus](https://github.com/3ximus)
-- [Josh Addington](https://github.com/JoshAddington)
-- [michaelboulton](https://github.com/michaelboulton)
-- [Michell Stuttgart](https://github.com/mstuttgart)
-- [sedmicha](https://github.com/sedmicha)
-- [Layo](https://github.com/layoaster)
-- [Maxim Tsoy](https://github.com/muodov)
-- [Huip van den Ende](https://github.com/huipvandenende)
-- [Christian Klaussner](https://github.com/klaussner)
-- [Anton Shpigunov](https://github.com/shpigunov)
-- [Piotr Więckiewicz](https://github.com/piotrwieckiewicz)
-- [Andrew Malchuk](https://github.com/amalchuk)
-- [Minseo Kim](https://github.com/kimminss0)
-
-Thanks for help to make the Gruvbox theme better.
-
-Copyright (C) 2017 [JD](https://github.com/jdinhify)
+Copyright (C) 2017 [jd](https://github.com/jdinhify)

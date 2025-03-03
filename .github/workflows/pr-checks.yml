@@ -1,8 +1,7 @@
-name: build & release
+name: pr-checks
 
 on:
-  push:
-    branches: [main]
+  pull_request:
 
 jobs:
   build-release:
@@ -21,7 +20,11 @@ jobs:
 
       - run: npm ci
 
-      - name: release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: npx semantic-release
+      - name: typecheck
+        run: npm run type:check
+      - name: lint
+        run: npm run lint:check
+      - name: format check
+        run: npm run format:check
+      - name: build check
+        run: npm run build
