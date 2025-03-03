@@ -38,5 +38,5 @@ jobs:
           echo "version: $version"
           git config user.email "14046273+jdinhify@users.noreply.github.com"
           git config user.name "jd"
-          npx vsce publish -p $VSCE_TOKEN $version
+          npx vsce publish -p $VSCE_TOKEN --no-git-tag-version $version
           npx ovsx publish -p $OVSX_TOKEN --packageVersion $version
