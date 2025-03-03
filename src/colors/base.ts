@@ -103,7 +103,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		// TABS
 		"tab.border": transparent,
 		"tab.activeBorder": aqua1,
-		"tab.activeBackground": "#32302f",
+		"tab.activeBackground": bg1,
 		"tab.activeForeground": fg1,
 		"tab.inactiveForeground": fg4,
 		"tab.inactiveBackground": bg0,
