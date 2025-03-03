@@ -12,6 +12,5 @@ export const getSemanticColors = (scheme: ColorScheme) => {
 		"function.builtin": orange2,
 		method: aqua2,
 		component: orange2,
-		enumMember: purple2,
 	};
 };

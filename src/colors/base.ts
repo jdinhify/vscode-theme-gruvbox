@@ -151,12 +151,12 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"editorWarning.foreground": yellow1,
 		"editorInfo.foreground": blue1,
 		// EDITOR - BRACKET PAIR COLORIZATION
-		"editorBracketHighlight.foreground1": orange1,
+		"editorBracketHighlight.foreground1": purple1,
 		"editorBracketHighlight.foreground2": blue1,
 		"editorBracketHighlight.foreground3": aqua1,
 		"editorBracketHighlight.foreground4": green1,
 		"editorBracketHighlight.foreground5": yellow1,
-		"editorBracketHighlight.foreground6": purple1,
+		"editorBracketHighlight.foreground6": orange1,
 		"editorBracketHighlight.unexpectedBracket.foreground": red1,
 		// EDITOR - STICKY SCROLL
 		"editorStickyScroll.shadow": withAlpha(bg2, 153),

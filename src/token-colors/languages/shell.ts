@@ -2,12 +2,12 @@ import { allColors } from "../../shared";
 import { Getter } from "../types";
 
 export const getShellColors: Getter = (scheme) => {
-	const { orange2, aqua2 } = allColors[scheme];
+	const { red2, orange2, aqua2 } = allColors[scheme];
 	return [
 		{
-			scope: "meta.statement.command.name.shell entity.name",
+			scope: "keyword.operator.logical",
 			settings: {
-				foreground: orange2,
+				foreground: red2,
 			},
 		},
 		{
