@@ -1,4 +1,4 @@
-import { ColorScheme, ColorContrast, allColors } from "../../shared";
+import { ColorScheme, ColorContrast, allColors, withAlpha } from "../../shared";
 
 export const getGitLensColors = (
 	scheme: ColorScheme,
@@ -84,8 +84,8 @@ export const getGitLensColors = (
 		"gitlens.mergedPullRequestIconColor": purple1,
 		"gitlens.openAutolinkedIssueIconColor": green1,
 		"gitlens.openPullRequestIconColor": green1,
-		"gitlens.trailingLineBackgroundColor": bg0,
-		"gitlens.trailingLineForegroundColor": bg1,
+		"gitlens.trailingLineBackgroundColor": withAlpha(bg0, 160),
+		"gitlens.trailingLineForegroundColor": withAlpha(grey, 160),
 		"gitlens.unpublishedChangesIconColor": green1,
 		"gitlens.unpublishedCommitIconColor": green1,
 		"gitlens.unpulledChangesIconColor": orange2,
