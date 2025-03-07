@@ -47,7 +47,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"dropdown.border": bg1,
 		"dropdown.foreground": fg1,
 		// INPUT
-		"input.background": withAlpha(fg1, 5),
+		"input.background": bg0,
 		"input.border": bg1,
 		"input.foreground": fg1,
 		"input.placeholderForeground": withAlpha(fg1, 96),
@@ -103,7 +103,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		// TABS
 		"tab.border": transparent,
 		"tab.activeBorder": aqua1,
-		"tab.activeBackground": "#32302f",
+		"tab.activeBackground": bg1,
 		"tab.activeForeground": fg1,
 		"tab.inactiveForeground": fg4,
 		"tab.inactiveBackground": bg0,
