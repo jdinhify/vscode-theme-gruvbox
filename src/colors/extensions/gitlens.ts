@@ -6,7 +6,6 @@ export const getGitLensColors = (
 ) => {
 	const colors = allColors[scheme];
 	const {
-		fg0,
 		bg1,
 		bg4,
 		grey,
@@ -71,8 +70,8 @@ export const getGitLensColors = (
 		"gitlens.graphScrollMarkerStashesColor": purple1,
 		"gitlens.graphScrollMarkerTagsColor": bg4,
 		"gitlens.graphScrollMarkerUpstreamColor": aqua2,
-		"gitlens.gutterBackgroundColor": fg0,
-		"gitlens.gutterForegroundColor": bg0,
+		"gitlens.gutterBackgroundColor": bg1,
+		"gitlens.gutterForegroundColor": fg1,
 		"gitlens.gutterUncommittedForegroundColor": blue1,
 		"gitlens.launchpadIndicatorAttentionColor": yellow2,
 		"gitlens.launchpadIndicatorAttentionHoverColor": yellow1,
