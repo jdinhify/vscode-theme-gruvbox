@@ -27,6 +27,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		orange1,
 		orange2,
 		transparent,
+		white,
 	} = colors;
 	const bg0 = colors[`bg0_${contrast}`];
 
@@ -64,8 +65,8 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"scrollbarSlider.hoverBackground": bg3,
 		"scrollbarSlider.background": withAlpha(bg2, 153),
 		// BADGE
-		"badge.background": purple2,
-		"badge.foreground": bg0,
+		"badge.background": purple1,
+		"badge.foreground": white,
 		// PROGRESS BAR
 		"progressBar.background": aqua1,
 		// LISTS AND TREES
@@ -93,7 +94,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"activityBarTop.background": bg0,
 		"activityBarTop.foreground": fg1,
 		"activityBarBadge.background": blue1,
-		"activityBarBadge.foreground": fg1,
+		"activityBarBadge.foreground": white,
 		// EDITOR GROUPS
 		"editorGroup.border": bg1,
 		"editorGroup.dropBackground": withAlpha(bg1, 96),

@@ -26,7 +26,8 @@ export type ColorKey =
 	| "aqua2"
 	| "orange1"
 	| "orange2"
-	| "transparent";
+	| "transparent"
+	| "white";
 export type ColorScheme = "dark" | "light";
 export type ColorContrast = "hard" | "medium" | "soft";
 
@@ -60,6 +61,7 @@ export const allColors: Record<ColorScheme, Record<ColorKey, `#${string}`>> = {
 		orange1: "#d65d0e",
 		orange2: "#fe8019",
 		transparent: "#0000",
+		white: "#ebdbb2",
 	},
 	light: {
 		bg0_hard: "#f9f5d7",
@@ -90,6 +92,7 @@ export const allColors: Record<ColorScheme, Record<ColorKey, `#${string}`>> = {
 		orange1: "#d65d0e",
 		orange2: "#af3a03",
 		transparent: "#0000",
+		white: "#ebdbb2",
 	},
 };
 
