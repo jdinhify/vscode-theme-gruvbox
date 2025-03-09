@@ -237,6 +237,8 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"gitDecoration.untrackedResourceForeground": green1,
 		"gitDecoration.ignoredResourceForeground": bg4,
 		"gitDecoration.conflictingResourceForeground": purple1,
+		"scmGraph.historyItemHoverLabelForeground": white,
+		"scmGraph.historyItemHoverDefaultLabelForeground": white,
 		// MENU BAR
 		"menu.border": bg1,
 		"menu.separatorBackground": bg1,
