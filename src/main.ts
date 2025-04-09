@@ -15,6 +15,7 @@ import { getGolangColors } from "./token-colors/languages/golang";
 import { getCucumberColors } from "./token-colors/languages/cucumber";
 import { getReasonMLColors } from "./token-colors/languages/reason-ml";
 import { getPowershellColors } from "./token-colors/languages/powershell";
+import { getLatexColors } from "./token-colors/languages/latex";
 import { getBaseTokenColors } from "./token-colors/base";
 import { getSemanticColors } from "./semantic-colors";
 import { getBaseColors } from "./colors/base";
@@ -56,6 +57,7 @@ const generateJson = (scheme: ColorScheme, contrast: ColorContrast) => {
 			...getCucumberColors(scheme, contrast),
 			...getReasonMLColors(scheme, contrast),
 			...getPowershellColors(scheme, contrast),
+			...getLatexColors(scheme, contrast),
 		],
 		colors: {
 			...getBaseColors(scheme, contrast),
