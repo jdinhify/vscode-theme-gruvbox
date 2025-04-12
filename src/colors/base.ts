@@ -36,6 +36,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		focusBorder: bg1,
 		foreground: fg1,
 		"widget.shadow": withAlpha(bg0, 48),
+		"widget.border": bg1,
 		"selection.background": withAlpha(aqua1, 128),
 		errorForeground: red2,
 		"icon.foreground": fg1,
