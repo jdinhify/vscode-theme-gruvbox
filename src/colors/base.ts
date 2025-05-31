@@ -251,5 +251,6 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"textLink.foreground": blue2,
 		"textLink.activeForeground": blue1,
 		"debugToolBar.background": bg0,
+		"editorGhostText.background": withAlpha(bg3, 96),
 	};
 };
