@@ -152,6 +152,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"editorError.foreground": red1,
 		"editorWarning.foreground": yellow1,
 		"editorInfo.foreground": blue1,
+		"editorIndentGuide.activeBackground": bg3,
 		// EDITOR - BRACKET PAIR COLORIZATION
 		"editorBracketHighlight.foreground1": purple1,
 		"editorBracketHighlight.foreground2": blue1,
