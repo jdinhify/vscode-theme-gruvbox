@@ -2,8 +2,18 @@ import { allColors } from "../../shared";
 import { Getter } from "../types";
 
 export const getMarkUpDownColors: Getter = (scheme) => {
-	const { orange1, orange2, green1, green2, blue2, aqua2, purple2, grey } =
-		allColors[scheme];
+	const {
+		orange1,
+		orange2,
+		green1,
+		green2,
+		blue2,
+		aqua2,
+		purple2,
+		red2,
+		yellow2,
+		grey,
+	} = allColors[scheme];
 	return [
 		{
 			scope: "markup.underline",
@@ -36,6 +46,48 @@ export const getMarkUpDownColors: Getter = (scheme) => {
 			settings: {
 				fontStyle: "bold",
 				foreground: orange2,
+			},
+		},
+		{
+			scope: "heading.1.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: red2,
+			},
+		},
+		{
+			scope: "heading.2.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: orange2,
+			},
+		},
+		{
+			scope: "heading.3.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: yellow2,
+			},
+		},
+		{
+			scope: "heading.4.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: green2,
+			},
+		},
+		{
+			scope: "heading.5.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: blue2,
+			},
+		},
+		{
+			scope: "heading.6.markdown entity.name.section.markdown",
+			settings: {
+				fontStyle: "bold",
+				foreground: purple2,
 			},
 		},
 		{
