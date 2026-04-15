@@ -78,7 +78,7 @@
 		"semantic-release": "semantic-release",
 		"dev": "tsx watch ./src/main.ts",
 		"build": "tsx ./src/main.ts",
-		"type:check": "tsc ./src/*.ts --noEmit",
+		"type:check": "tsc --noEmit",
 		"lint:check": "eslint ./src",
 		"format:check": "prettier ./src --check"
 	},

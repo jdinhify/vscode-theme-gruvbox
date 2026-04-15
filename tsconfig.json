@@ -16,6 +16,13 @@
 		"esModuleInterop": true,
 
 		// Disallow features that require cross-file awareness
-		"isolatedModules": true
-	}
+		"isolatedModules": true,
+
+		// Recognize node: prefix and node modules
+		"types": ["node"],
+		"moduleResolution": "Bundler"
+	},
+	"include": [
+		"src/**/*"
+	]
 }
