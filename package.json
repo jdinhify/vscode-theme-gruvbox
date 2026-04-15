@@ -61,17 +61,17 @@
 		"publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
 	},
 	"devDependencies": {
-		"@eslint/js": "^9.21.0",
-		"@types/node": "^22.13.7",
-		"@vscode/vsce": "^3.2.2",
-		"eslint": "^9.21.0",
-		"eslint-config-prettier": "^10.0.2",
-		"ovsx": "^0.10.1",
-		"prettier": "3.5.2",
-		"semantic-release": "^24.2.3",
-		"tsx": "^4.19.3",
-		"typescript": "^5.7.3",
-		"typescript-eslint": "^8.25.0"
+		"@eslint/js": "^10.0.1",
+		"@types/node": "^25.6.0",
+		"@vscode/vsce": "^3.8.0",
+		"eslint": "^10.2.0",
+		"eslint-config-prettier": "^10.1.8",
+		"ovsx": "^0.10.11",
+		"prettier": "3.8.3",
+		"semantic-release": "^25.0.3",
+		"tsx": "^4.21.0",
+		"typescript": "^6.0.2",
+		"typescript-eslint": "^8.58.2"
 	},
 	"private": true,
 	"scripts": {
