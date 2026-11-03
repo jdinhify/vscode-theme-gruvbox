@@ -1,4 +1,4 @@
-import { ColorScheme, allColors } from "../../shared";
+import { ColorScheme, allColors, withAlpha } from "../../shared";
 import { Getter } from "../types";
 
 export const getJupyterNotebookColors: Getter = (scheme: ColorScheme) => {
@@ -10,5 +10,6 @@ export const getJupyterNotebookColors: Getter = (scheme: ColorScheme) => {
 		"notebook.focusedCellBorder": fg4,
 		"notebook.cellBorderColor": bg2,
 		"notebook.focusedEditorBorder": bg2,
+		"notebook.outputContainerBackgroundColor": withAlpha(bg1, 96),
 	};
 };

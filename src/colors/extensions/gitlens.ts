@@ -30,7 +30,6 @@ export const getGitLensColors = (
 	return {
 		"gitlens.closedAutolinkedIssueIconColor": purple1,
 		"gitlens.closedPullRequestIconColor": red1,
-		"gitDecoration.addedResourceForeground": fg1,
 		"gitlens.decorations.branchAheadForegroundColor": green1,
 		"gitlens.decorations.branchBehindForegroundColor": orange1,
 		"gitlens.decorations.branchDivergedForegroundColor": yellow1,

@@ -2,7 +2,7 @@ import { allColors } from "../../shared";
 import { Getter } from "../types";
 
 export const getGolangColors: Getter = (scheme) => {
-	const { fg1, yellow2, green2, aqua2, blue2, purple2 } = allColors[scheme];
+	const { fg1, yellow2, green2, aqua2, blue2, orange2 } = allColors[scheme];
 	return [
 		{
 			scope: ["source.go storage.type"],
@@ -37,7 +37,13 @@ export const getGolangColors: Getter = (scheme) => {
 		{
 			scope: ["source.go entity.name.function"],
 			settings: {
-				foreground: purple2,
+				foreground: aqua2,
+			},
+		},
+		{
+			scope: ["source.go entity.name.function.support.builtin"],
+			settings: {
+				foreground: orange2,
 			},
 		},
 	];

@@ -2,7 +2,7 @@ import { allColors } from "../../shared";
 import { Getter } from "../types";
 
 export const getPythonColors: Getter = (scheme) => {
-	const { aqua2, red2, blue2, fg2, yellow2 } = allColors[scheme];
+	const { aqua2, red2, blue2, fg2, yellow2, purple2 } = allColors[scheme];
 	return [
 		{
 			name: "Python function",
@@ -57,6 +57,21 @@ export const getPythonColors: Getter = (scheme) => {
 			scope: "constant.other.caps",
 			settings: {
 				fontStyle: "bold",
+			},
+		},
+		{
+			name: "Python magic functions",
+			scope: "support.function.magic.python",
+			settings: {
+				fontStyle: "italic",
+			},
+		},
+		{
+			name: "Python magic variables",
+			scope: "support.variable.magic.python",
+			settings: {
+				foreground: purple2,
+				fontStyle: "italic",
 			},
 		},
 	];
