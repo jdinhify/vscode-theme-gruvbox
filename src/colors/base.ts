@@ -30,12 +30,14 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		white,
 	} = colors;
 	const bg0 = colors[`bg0_${contrast}`];
+	// bg0 shadows are invisible on bg0 surfaces, so use a translucent black
+	const shadow = scheme === "dark" ? "#0000006b" : "#0000002e";
 
 	return {
 		// BASE COLORS
 		focusBorder: bg1,
 		foreground: fg1,
-		"widget.shadow": withAlpha(bg0, 48),
+		"widget.shadow": shadow,
 		"widget.border": bg1,
 		"selection.background": withAlpha(aqua1, 128),
 		errorForeground: red2,
@@ -61,7 +63,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"inputValidation.warningBackground": yellow1,
 		"inputOption.activeBorder": withAlpha(fg1, 96),
 		// SCROLL BAR
-		"scrollbar.shadow": bg0,
+		"scrollbar.shadow": shadow,
 		"scrollbarSlider.activeBackground": aqua1,
 		"scrollbarSlider.hoverBackground": bg3,
 		"scrollbarSlider.background": withAlpha(bg2, 153),
@@ -105,6 +107,7 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		// TABS
 		"tab.border": transparent,
 		"tab.activeBorder": aqua1,
+		"tab.activeBorderTop": aqua1,
 		"tab.activeBackground": bg1,
 		"tab.activeForeground": fg1,
 		"tab.inactiveForeground": fg4,
@@ -112,6 +115,9 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"tab.unfocusedActiveForeground": fg4,
 		"tab.unfocusedActiveBorder": transparent,
 		"tab.unfocusedInactiveForeground": grey,
+		"tab.selectedBackground": bg1,
+		"tab.selectedForeground": fg1,
+		"tab.selectedBorderTop": aqua1,
 		// EDITOR
 		"editor.background": bg0,
 		"editor.foreground": fg1,
@@ -153,6 +159,8 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"editorWarning.foreground": yellow1,
 		"editorInfo.foreground": blue1,
 		"editorIndentGuide.activeBackground": bg3,
+		"editorInlayHint.foreground": grey,
+		"editorInlayHint.background": withAlpha(bg1, 96),
 		// EDITOR - BRACKET PAIR COLORIZATION
 		"editorBracketHighlight.foreground1": purple1,
 		"editorBracketHighlight.foreground2": blue1,
@@ -234,11 +242,16 @@ export const getBaseColors = (scheme: ColorScheme, contrast: ColorContrast) => {
 		"titleBar.activeForeground": fg1,
 		"titleBar.inactiveBackground": bg0,
 		// GIT COLORS
+		"gitDecoration.addedResourceForeground": green1,
 		"gitDecoration.modifiedResourceForeground": yellow1,
 		"gitDecoration.deletedResourceForeground": red1,
+		"gitDecoration.renamedResourceForeground": aqua1,
+		"gitDecoration.stageModifiedResourceForeground": yellow1,
+		"gitDecoration.stageDeletedResourceForeground": red1,
 		"gitDecoration.untrackedResourceForeground": green1,
 		"gitDecoration.ignoredResourceForeground": bg4,
 		"gitDecoration.conflictingResourceForeground": purple1,
+		"gitDecoration.submoduleResourceForeground": blue1,
 		"scmGraph.historyItemHoverLabelForeground": white,
 		"scmGraph.historyItemHoverDefaultLabelForeground": white,
 		// MENU BAR

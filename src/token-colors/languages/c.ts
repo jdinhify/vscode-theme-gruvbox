@@ -43,7 +43,12 @@ export const getCColors: Getter = (scheme) => {
 		},
 		{
 			name: "C# This",
-			scope: ["keyword.other.this.cs", "keyword.other.base.cs"],
+			scope: [
+				"keyword.other.this.cs",
+				"keyword.other.base.cs",
+				"variable.language.this.cs",
+				"variable.language.base.cs",
+			],
 			settings: {
 				foreground: purple2,
 			},

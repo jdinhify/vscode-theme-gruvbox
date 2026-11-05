@@ -38,7 +38,6 @@ export const getMarkUpDownColors: Getter = (scheme) => {
 			scope: "markup.bold",
 			settings: {
 				fontStyle: "bold",
-				foreground: orange2,
 			},
 		},
 		{
